@@ -1678,5 +1678,325 @@
       "11928014",
       "12489002"
     ]
+  },
+  {
+    "pmid": "15208005",
+    "question": "The Omega-3 Index: a new risk factor for death from coronary heart disease?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "The Omega-3 Index may represent a novel, physiologically relevant, easily modified, independent, and graded risk factor for death from CHD that could have significant clinical utility.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 205.5028000031598,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "15208005",
+      "7834677",
+      "2260969",
+      "21195593",
+      "26362578"
+    ]
+  },
+  {
+    "pmid": "16713745",
+    "question": "Do cytokine concentrations in pancreatic juice predict the presence of pancreatic diseases?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Cytokine levels can be measured in pancreatic juice obtained from the duodenum without direct cannulation of the pancreatic duct. Interleukin-8 concentration in pancreatic juice can be used to discriminate between normal pancreas and patients with pancreatic disease. This is a relatively simple and noninvasive method to aid in the diagnosis of pancreatic diseases.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 513.1344000110403,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "16713745",
+      "15943725",
+      "10025881",
+      "18670651",
+      "1798275"
+    ]
+  },
+  {
+    "pmid": "21864397",
+    "question": "Factors determining the survival of nasopharyngeal carcinoma with lung metastasis alone: does combined modality treatment benefit?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Age \u2264 45 years, DFI>1 year, and the combined therapy were good prognostic factors for NPC patients with lung metastasis(es) alone. The combination of local therapy and the basic chemotherapy should be considered for these patients with DFI>1 year.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 338.1457999930717,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "21864397",
+      "8985020",
+      "22488786",
+      "7596767",
+      "29177728"
+    ]
+  },
+  {
+    "pmid": "25810292",
+    "question": "Is minimally invasive mitral valve repair with artificial chords reproducible and applicable in routine surgery?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Minimally invasive mitral valve repair using neochords provided a high rate of repair, reproducible results in a routine cardiac surgery setting and stable repair during follow-up. This has become our preferred technique for mitral valve surgery.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 481.62580002099276,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "25810292",
+      "1763303",
+      "19272952",
+      "23973122",
+      "21917325"
+    ]
+  },
+  {
+    "pmid": "11943048",
+    "question": "Does receipt of hospice care in nursing homes improve the management of pain at the end of life?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Findings suggest that analgesic management of daily pain is better for nursing home residents enrolled in hospice than for those not enrolled in hospice.The prescribing practices portrayed by this study reveal that many dying nursing home residents in daily pain are receiving no analgesic treatment or are receiving analgesic treatment inconsistent with AMDA and other pain management guidelines. Improving the analgesic management of pain in nursing homes is essential if high-quality end-of-life care in nursing homes is to be achieved.",
+    "predicted_explanation": "A retrospective cohort study of nursing home residents found that those enrolled in Medicare hospice were significantly more likely to receive regular analgesic treatment for daily pain near death (adjusted odds ratio\u202f=\u202f2.08, 95%\u202fCI\u202f1.68\u20112.56) compared with non\u2011hospice residents, indicating better pain management with hospice care.",
+    "raw_generation": "Answer: YES\nExplanation: A retrospective cohort study of nursing home residents found that those enrolled in Medicare hospice were significantly more likely to receive regular analgesic treatment for daily pain near death (adjusted odds ratio\u202f=\u202f2.08, 95%\u202fCI\u202f1.68\u20112.56) compared with non\u2011hospice residents, indicating better pain management with hospice care.",
+    "retrieval_latency_ms": 517.2086000093259,
+    "generation_latency_ms": 46696.00029999856,
+    "error": null,
+    "retrieved_pmids": [
+      "11943048",
+      "27742606",
+      "29271241",
+      "29165012",
+      "26470876"
+    ]
+  },
+  {
+    "pmid": "23347337",
+    "question": "Is intensive chemotherapy safe for rural cancer patients?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "It appears safe to administer intensive chemotherapy regimens at standard doses to rural patients without increased morbidity or mortality. Support for general practitioners through phone or videoconferencing may reduce the safety concerns.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 508.4743000334129,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "23347337",
+      "26561905",
+      "31741959",
+      "1744956",
+      "26399699"
+    ]
+  },
+  {
+    "pmid": "23992109",
+    "question": "Is the urinary biomarkers assessment a non-invasive approach to tubular lesions of the solitary kidney?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Urinary biomarkers allow a non-invasive, sensitive, early assessment of the tubular lesions of the SK. Urinary biomarkers of PT injury parallel renal function decline, thus complementing the estimation of GFR. Monitoring of PT dysfunction is mandatory in patients with SK.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 536.6429999703541,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "23992109",
+      "9842973",
+      "21626116",
+      "21691720",
+      "20822935"
+    ]
+  },
+  {
+    "pmid": "10922093",
+    "question": "Does open access endoscopy close the door to an adequately informed patient?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Patients undergoing open access procedures are less likely to be properly informed about their endoscopic procedure. Our results indicate that with open access endoscopy, a defined mechanism needs to be in place for communication of endoscopic results to the patient.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 535.5723000247963,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "10922093",
+      "23949548",
+      "11928022",
+      "12469242",
+      "22144138"
+    ]
+  },
+  {
+    "pmid": "26601554",
+    "question": "Do viral infections have a role in benign paroxysmal positional vertigo?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "BPPV is associated with positive viral serology, particularly during certain months of the year, mainly in spring and autumn. Viral infection might promote BPPV attacks due to the development of vestibulopathy or induce secondary BPPV via viral infection-related neurolabyrinthitis.",
+    "predicted_explanation": "A retrospective study of 483 BPPV patients found higher serologic evidence of multiple viral infections (e.g., HSV\u20111, HSV\u20112, EBV, CMV, adenovirus) compared with controls, with seasonal peaks. The authors concluded that viral infection may promote BPPV attacks by causing vestibulopathy or secondary BPPV via viral\u2011related neurolabyrinthitis. This directly supports a role for viral infections in BPPV.",
+    "raw_generation": "Answer: YES\nExplanation: A retrospective study of 483 BPPV patients found higher serologic evidence of multiple viral infections (e.g., HSV\u20111, HSV\u20112, EBV, CMV, adenovirus) compared with controls, with seasonal peaks. The authors concluded that viral infection may promote BPPV attacks by causing vestibulopathy or secondary BPPV via viral\u2011related neurolabyrinthitis. This directly supports a role for viral infections in BPPV.",
+    "retrieval_latency_ms": 512.5472000217997,
+    "generation_latency_ms": 52203.5818999866,
+    "error": null,
+    "retrieved_pmids": [
+      "26601554",
+      "27307864",
+      "18296009",
+      "1786118",
+      "19220537"
+    ]
+  },
+  {
+    "pmid": "15489384",
+    "question": "Does reducing spasticity translate into functional benefit?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Using a targeted meta-analytic approach, it is possible to demonstrate that reducing spasticity in the arm is associated with a significant improvement in arm function.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 467.834800016135,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "15489384",
+      "29042299",
+      "29092649",
+      "16395282",
+      "22212022"
+    ]
+  },
+  {
+    "pmid": "27818079",
+    "question": "Is the Retromandibular Transparotid Approach a Reliable Option for the Surgical Treatment of Condylar Fractures?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "According to the results of the present study, the retromandibular transparotid approach is a viable and safe approach for the surgical treatment of condylar fractures.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 538.839699991513,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "27818079",
+      "19058774",
+      "17988968",
+      "21995588",
+      "22025326"
+    ]
+  },
+  {
+    "pmid": "24340838",
+    "question": "Do ventricular arrhythmias in athletes subside over time?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Athletes engaged in competitive sports are more likely to develop ventricular arrhythmias during exercise. These arrhythmias subside over time when athletes are engaged in non-competitive sports.",
+    "predicted_explanation": "In a longitudinal study of athletes with ventricular arrhythmias during exercise testing, the majority showed a marked reduction in ventricular premature beats, couplets, or non\u2011sustained ventricular tachycardia at a mean follow\u2011up of about 70 months. The authors concluded that these arrhythmias \u201csubside over time when athletes are engaged in non\u2011competitive sports.\u201d This directly demonstrates that ventricular arrhythmias in athletes tend to decrease with time.",
+    "raw_generation": "Answer: YES\nExplanation: In a longitudinal study of athletes with ventricular arrhythmias during exercise testing, the majority showed a marked reduction in ventricular premature beats, couplets, or non\u2011sustained ventricular tachycardia at a mean follow\u2011up of about 70 months. The authors concluded that these arrhythmias \u201csubside over time when athletes are engaged in non\u2011competitive sports.\u201d This directly demonstrates that ventricular arrhythmias in athletes tend to decrease with time.",
+    "retrieval_latency_ms": 5461.471699993126,
+    "generation_latency_ms": 100478.853800043,
+    "error": null,
+    "retrieved_pmids": [
+      "24340838",
+      "18603583",
+      "14963672",
+      "2251990",
+      "2265423"
+    ]
+  },
+  {
+    "pmid": "16971978",
+    "question": "Are complex coronary lesions more frequent in patients with diabetes mellitus?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Complex coronary lesions such as bifurcation and ostial lesions were significantly more common in diabetic patients than in nondiabetic patients. Greater age and the presence of DM were independent predictors for these complex lesions. These results may help to explain the poor prognosis of coronary artery disease among diabetic patients.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 558.6997999926098,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "16971978",
+      "21920614",
+      "16061125",
+      "16307810",
+      "9915665"
+    ]
+  },
+  {
+    "pmid": "21689015",
+    "question": "Can dogs prime autistic children for therapy?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "These findings are in accordance with previous experimental work and provide additional support for the assertion that dogs can prime autistic children for therapy. Ultimately, this study may contribute toward a change for full acceptance of canine-assisted therapy programs within the medical milieu. Additional studies using a similar research protocol on more autistic children will certainly help professionals to work on the most effective methods to individually serve this population through canine-assisted interventions.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 526.662899996154,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "21689015",
+      "16242911",
+      "16290082",
+      "16338118",
+      "16298103"
+    ]
+  },
+  {
+    "pmid": "12846929",
+    "question": "Quality of life in lung cancer patients: does socioeconomic status matter?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "At baseline assessment patients of lower socioeconomic status showed lower health related quality of life. Since there was no clear trend at follow-up assessment this suggests that patients from different socioeconomic status responded to treatment similarly. In general, the findings suggest that quality of life is not only the outcome of the disease and its treatment, but is also highly dependent on each patients' socioeconomic characteristics.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 535.0317999836989,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "12846929",
+      "26556778",
+      "29110569",
+      "20973875",
+      "16968876"
+    ]
+  },
+  {
+    "pmid": "22694248",
+    "question": "Is there a model to teach and practice retroperitoneoscopic nephrectomy?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "RPN in a porcine model is feasible and could be very useful for teaching and practicing retroperitoneoscopy.",
+    "predicted_explanation": "Evidence 1 describes the development of a porcine retroperitoneoscopic nephrectomy (RPN) training model, demonstrating that the model simulates the entire procedure and is feasible for teaching and practicing retroperitoneoscopy. The authors conclude that this model \u201ccould be very useful for teaching and practicing retroperitoneoscopy.\u201d",
+    "raw_generation": "Answer: YES\nExplanation: Evidence 1 describes the development of a porcine retroperitoneoscopic nephrectomy (RPN) training model, demonstrating that the model simulates the entire procedure and is feasible for teaching and practicing retroperitoneoscopy. The authors conclude that this model \u201ccould be very useful for teaching and practicing retroperitoneoscopy.\u201d",
+    "retrieval_latency_ms": 514.1218999633566,
+    "generation_latency_ms": 33461.7869000067,
+    "error": null,
+    "retrieved_pmids": [
+      "22694248",
+      "21286726",
+      "21604019",
+      "22120179",
+      "23999890"
+    ]
   }
 ]
