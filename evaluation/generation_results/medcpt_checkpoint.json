@@ -1578,5 +1578,105 @@
       "16036153",
       "16369888"
     ]
+  },
+  {
+    "pmid": "17306983",
+    "question": "Is size-reducing ascending aortoplasty with external reinforcement an option in modern aortic surgery?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "As demonstrated in this study, size reduction of the ascending aorta using aortoplasty with external reinforcement is a safe procedure with excellent long-term results. It is a therapeutic option in modern aortic surgery in patients with poststenotic dilatation of the aorta without impairment of the sinotubular junction of the aortic valve and root.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 174.8717000009492,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "17306983",
+      "18948873",
+      "25228241",
+      "12607666",
+      "28548474"
+    ]
+  },
+  {
+    "pmid": "24318956",
+    "question": "Is digoxin use for cardiovascular disease associated with risk of prostate cancer?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "These data indicate digoxin use may be associated with a reduction in risk of PCa. Given the potential mechanisms by which digoxin may exert an anti-neoplastic effect and other recent studies showing a negative association between digoxin use and PCa, further research is warranted.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 637.2679999913089,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "24318956",
+      "27307873",
+      "2285605",
+      "21807421",
+      "19117769"
+    ]
+  },
+  {
+    "pmid": "22266735",
+    "question": "Screening for gestational diabetes mellitus: are the criteria proposed by the international association of the Diabetes and Pregnancy Study Groups cost-effective?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "The IADPSG recommendation for glucose screening in pregnancy is cost-effective. The model is most sensitive to the likelihood of preventing future diabetes in patients identified with GDM using postdelivery counseling and intervention.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 896.0841000080109,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "22266735",
+      "21186187",
+      "2147576",
+      "10633777",
+      "23638904"
+    ]
+  },
+  {
+    "pmid": "22453060",
+    "question": "Does a 4 diagram manual enable laypersons to operate the Laryngeal Mask Supreme\u00ae?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "In manikin laypersons could insert LMAS in the correct direction after onsite instruction by a simple manual with a high success rate. This indicates some basic procedural understanding and intellectual transfer in principle. Operating errors (n = 91) were frequently not recognized and corrected (n = 77). Improvements in labeling and the quality of instructional photographs may reduce individual error and may optimize understanding.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 617.2561999992467,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "22453060",
+      "26614141",
+      "11928019",
+      "16139111",
+      "24017969"
+    ]
+  },
+  {
+    "pmid": "10401824",
+    "question": "Is laparoscopic reoperation for failed antireflux surgery feasible?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Antireflux surgery failures are most commonly associated with hiatal herniation, followed by the breakdown of the fundoplication. The laparoscopic approach may be used successfully to treat patients with failed antireflux operations. Good results were achieved despite the technical difficulty of the procedures.",
+    "predicted_explanation": "Multiple prospective and case\u2011series studies report that the majority of reoperations for failed antireflux surgery can be completed laparoscopically (e.g., 96% in 51 patients\u3010Evidence\u202f1\u3011, 90% in 20 patients after open primary surgery\u3010Evidence\u202f3\u3011, and 10 of 11 revisions after anterior fundoplication\u3010Evidence\u202f4\u3011). Although some conversions to open surgery occur (overall 20% in a larger series\u3010Evidence\u202f2\u3011), the procedures are generally performed safely with good functional outcomes, indicating that laparoscopic reoperation is feasible.",
+    "raw_generation": "Answer: YES\nExplanation: Multiple prospective and case\u2011series studies report that the majority of reoperations for failed antireflux surgery can be completed laparoscopically (e.g., 96% in 51 patients\u3010Evidence\u202f1\u3011, 90% in 20 patients after open primary surgery\u3010Evidence\u202f3\u3011, and 10 of 11 revisions after anterior fundoplication\u3010Evidence\u202f4\u3011). Although some conversions to open surgery occur (overall 20% in a larger series\u3010Evidence\u202f2\u3011), the procedures are generally performed safely with good functional outcomes, indicating that laparoscopic reoperation is feasible.",
+    "retrieval_latency_ms": 737.581399967894,
+    "generation_latency_ms": 59335.63049999066,
+    "error": null,
+    "retrieved_pmids": [
+      "12673491",
+      "10401824",
+      "11928012",
+      "11928014",
+      "12489002"
+    ]
   }
 ]
