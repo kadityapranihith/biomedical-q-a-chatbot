@@ -1,0 +1,2002 @@
+[
+  {
+    "pmid": "12377809",
+    "question": "Is anorectal endosonography valuable in dyschesia?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Linear anorectal endosonography demonstrated incomplete or even absent relaxation of the anal sphincter and the m. puborectalis during a defecation movement in the majority of our patients with dyschesia. This study highlights the value of this elegant ultrasonographic technique in the diagnosis of \"pelvic floor dyssynergia\" or \"anismus\".",
+    "predicted_explanation": "In a prospective study of 20 dyschesia patients and 20 controls, linear anorectal endosonography identified paradoxical shortening/thickening of the anal sphincter and puborectalis during straining in the majority of patients, findings that differed significantly from controls. The authors concluded that the technique \u201chighlights the value\u2026 in the diagnosis of \u2018pelvic floor dyssynergia\u2019 or \u2018anismus\u2019,\u201d indicating it is valuable for evaluating dyschesia.",
+    "raw_generation": "Answer: YES  \nExplanation: In a prospective study of 20 dyschesia patients and 20 controls, linear anorectal endosonography identified paradoxical shortening/thickening of the anal sphincter and puborectalis during straining in the majority of patients, findings that differed significantly from controls. The authors concluded that the technique \u201chighlights the value\u2026 in the diagnosis of \u2018pelvic floor dyssynergia\u2019 or \u2018anismus\u2019,\u201d indicating it is valuable for evaluating dyschesia.",
+    "retrieval_latency_ms": 139.83590004500002,
+    "generation_latency_ms": 1330.0602000090294,
+    "error": null,
+    "retrieved_pmids": [
+      "12377809",
+      "16244864",
+      "12612817",
+      "11960226",
+      "27845307"
+    ]
+  },
+  {
+    "pmid": "26163474",
+    "question": "Is there a connection between sublingual varices and hypertension?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "An association was found between sublingual varices and hypertension. Examining the lateral borders of the tongue is easily done, causes no harm and could be a valuable method for the dental profession to take active part in preventive healthcare.",
+    "predicted_explanation": "In a clinical study of 431 dental patients, sublingual varices were significantly associated with hypertension (odds ratio\u202f=\u202f2.25, p\u202f<\u202f0.002). Patients with medium/severe sublingual varices had higher mean systolic (132\u202fmmHg vs 123\u202fmmHg) and diastolic (83\u202fmmHg vs 80\u202fmmHg) blood pressures, supporting a connection between sublingual varices and hypertension.",
+    "raw_generation": "Answer: YES  \nExplanation: In a clinical study of 431 dental patients, sublingual varices were significantly associated with hypertension (odds ratio\u202f=\u202f2.25, p\u202f<\u202f0.002). Patients with medium/severe sublingual varices had higher mean systolic (132\u202fmmHg vs 123\u202fmmHg) and diastolic (83\u202fmmHg vs 80\u202fmmHg) blood pressures, supporting a connection between sublingual varices and hypertension.",
+    "retrieval_latency_ms": 214.2757999827154,
+    "generation_latency_ms": 1055.1019000122324,
+    "error": null,
+    "retrieved_pmids": [
+      "26163474",
+      "8549262",
+      "19030919",
+      "22092873",
+      "26063028"
+    ]
+  },
+  {
+    "pmid": "19100463",
+    "question": "Is the affinity column-mediated immunoassay method suitable as an alternative to the microparticle enzyme immunoassay method as a blood tacrolimus assay?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "The ACMIA method used for a tacrolimus assay is precise and has advantages, including the lack of a required pretreatment procedure. Furthermore, it is only slightly influenced by the hematologic or biochemical status of the samples.",
+    "predicted_explanation": "The study comparing affinity column\u2011mediated immunoassay (ACMIA) with microparticle enzyme immunoassay (MEIA) for whole\u2011blood tacrolimus showed a strong correlation (r\u202f=\u202f0.84) and no systematic bias, indicating that ACMIA provides precise results comparable to MEIA. The authors concluded that ACMIA is a suitable alternative, with advantages such as no required pretreatment and minimal influence from hematologic or biochemical variables.",
+    "raw_generation": "Answer: YES\nExplanation: The study comparing affinity column\u2011mediated immunoassay (ACMIA) with microparticle enzyme immunoassay (MEIA) for whole\u2011blood tacrolimus showed a strong correlation (r\u202f=\u202f0.84) and no systematic bias, indicating that ACMIA provides precise results comparable to MEIA. The authors concluded that ACMIA is a suitable alternative, with advantages such as no required pretreatment and minimal influence from hematologic or biochemical variables.",
+    "retrieval_latency_ms": 427.8520999941975,
+    "generation_latency_ms": 1021.0181000293233,
+    "error": null,
+    "retrieved_pmids": [
+      "19100463",
+      "2073754",
+      "10632465",
+      "12632149",
+      "2273257"
+    ]
+  },
+  {
+    "pmid": "18537964",
+    "question": "Does a physician's specialty influence the recording of medication history in patients' case notes?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Physicians appear to document more frequently and in greater depth medication history information that may aid the diagnostic tasks in their specific specialty. Researchers and other users of medication history data documented in patients' medical records by physicians may want to take special cognizance of this phenomenon.",
+    "predicted_explanation": "The cross\u2011sectional study of 123 physicians across nine specialties found that physicians\u2019 specialties significantly affected both how often and how thoroughly medication history was documented in patient records (P\u202f<\u202f0.0001), indicating that specialty influences recording of medication history.",
+    "raw_generation": "Answer: YES\nExplanation: The cross\u2011sectional study of 123 physicians across nine specialties found that physicians\u2019 specialties significantly affected both how often and how thoroughly medication history was documented in patient records (P\u202f<\u202f0.0001), indicating that specialty influences recording of medication history.",
+    "retrieval_latency_ms": 453.05969996843487,
+    "generation_latency_ms": 884.8967999801971,
+    "error": null,
+    "retrieved_pmids": [
+      "18537964",
+      "16039344",
+      "2263929",
+      "23844854",
+      "18829201"
+    ]
+  },
+  {
+    "pmid": "12913878",
+    "question": "Locoregional opening of the rodent blood-brain barrier for paclitaxel using Nd:YAG laser-induced thermo therapy: a new concept of adjuvant glioma therapy?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "LITT induces a locoregional passage of chemotherapeutic agents into the brain tissue. This is of potential interest for the treatment of brain tumors.",
+    "predicted_explanation": "The study demonstrated that Nd:YAG laser\u2011induced thermo therapy (LITT) opens the blood\u2011brain barrier locally in rats, allowing paclitaxel to enter brain tissue, and the authors conclude that this locoregional drug delivery is of potential interest for treating brain tumors, representing a novel adjuvant glioma therapy concept. (Evidence\u202f1)",
+    "raw_generation": "Answer: YES  \nExplanation: The study demonstrated that Nd:YAG laser\u2011induced thermo therapy (LITT) opens the blood\u2011brain barrier locally in rats, allowing paclitaxel to enter brain tissue, and the authors conclude that this locoregional drug delivery is of potential interest for treating brain tumors, representing a novel adjuvant glioma therapy concept. (Evidence\u202f1)",
+    "retrieval_latency_ms": 625.1530000008643,
+    "generation_latency_ms": 12570.384100021329,
+    "error": null,
+    "retrieved_pmids": [
+      "12913878",
+      "2074391",
+      "12709807",
+      "18080149",
+      "24254743"
+    ]
+  },
+  {
+    "pmid": "12765819",
+    "question": "Spinal subdural hematoma: a sequela of a ruptured intracranial aneurysm?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Although the exact mechanism of SSDH in this case is unclear, we speculate that this SSDH was a hematoma that migrated from the intracranial subdural space. Low CSF pressure because of continuous drainage and intrathecal thrombolytic therapy may have played an important role in the migration of the hematoma through the spinal canal. It is important to recognize the SSDH as a possible complication of the SAH accompanied with intracranial subdural hematoma.",
+    "predicted_explanation": "A case report (Evidence\u202f1) describes a patient who developed a spinal subdural hematoma after subarachnoid hemorrhage caused by a ruptured internal carotid aneurysm, and the authors conclude that the SSDH likely resulted from migration of the intracranial subdural hematoma, indicating that SSDH can be a sequela of a ruptured intracranial aneurysm.",
+    "raw_generation": "Answer: YES\nExplanation: A case report (Evidence\u202f1) describes a patient who developed a spinal subdural hematoma after subarachnoid hemorrhage caused by a ruptured internal carotid aneurysm, and the authors conclude that the SSDH likely resulted from migration of the intracranial subdural hematoma, indicating that SSDH can be a sequela of a ruptured intracranial aneurysm.",
+    "retrieval_latency_ms": 743.214700021781,
+    "generation_latency_ms": 10127.046299981885,
+    "error": null,
+    "retrieved_pmids": [
+      "12765819",
+      "29199460",
+      "21185743",
+      "28660808",
+      "11981630"
+    ]
+  },
+  {
+    "pmid": "25475395",
+    "question": "Is there a correlation between androgens and sexual desire in women?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "In the present study, FT and androstenedione were statistically significantly correlated with sexual desire in the total cohort of women. ADT-G did not correlate more strongly than circulating androgens with sexual desire and is therefore not superior to measuring circulating androgens by mass spectrometry.",
+    "predicted_explanation": "A cross\u2011sectional study of 560 healthy women found that sexual desire scores were statistically significantly correlated with free testosterone and androstenedione in the total cohort, and with total testosterone, free testosterone, androstenedione and DHEAS in younger women not using hormonal contraception. This demonstrates a positive correlation between circulating androgen levels and sexual desire in women.",
+    "raw_generation": "Answer: YES\nExplanation: A cross\u2011sectional study of 560 healthy women found that sexual desire scores were statistically significantly correlated with free testosterone and androstenedione in the total cohort, and with total testosterone, free testosterone, androstenedione and DHEAS in younger women not using hormonal contraception. This demonstrates a positive correlation between circulating androgen levels and sexual desire in women.",
+    "retrieval_latency_ms": 1121.1161999963224,
+    "generation_latency_ms": 13065.630900033284,
+    "error": null,
+    "retrieved_pmids": [
+      "25475395",
+      "17943435",
+      "29294968",
+      "19028385",
+      "10704910"
+    ]
+  },
+  {
+    "pmid": "19130332",
+    "question": "Is the zeolite hemostatic agent beneficial in reducing blood loss during arterial injury?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "According to the physiological parameters, we observed that zeolite tends to reduce blood loss, however could not stop bleeding completely. We believe that further clinical trials are needed to conclude that zeolite could be used in the routine practice.",
+    "predicted_explanation": "In a swine extremity arterial injury model, direct application of the zeolite hemostatic agent (QuikClot\u2011Advanced Clotting Sponge) resulted in decreased total blood loss compared with pressure dressing controls, indicating that zeolite reduces blood loss, though it does not completely stop bleeding.",
+    "raw_generation": "Answer: YES\nExplanation: In a swine extremity arterial injury model, direct application of the zeolite hemostatic agent (QuikClot\u2011Advanced Clotting Sponge) resulted in decreased total blood loss compared with pressure dressing controls, indicating that zeolite reduces blood loss, though it does not completely stop bleeding.",
+    "retrieval_latency_ms": 1285.1420000079088,
+    "generation_latency_ms": 7248.133399989456,
+    "error": null,
+    "retrieved_pmids": [
+      "19130332",
+      "22198725",
+      "26634950",
+      "18054305",
+      "18023568"
+    ]
+  },
+  {
+    "pmid": "9427037",
+    "question": "Are endothelial cell patterns of astrocytomas indicative of grade?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Evaluation of astrocytomas utilizing antibody to vWF and confocal microscopy aids in the grading of these neoplasms.",
+    "predicted_explanation": "The study (PMID\u202f9427037) examined vascular patterns in astrocytomas using von\u202fWillebrand factor staining and confocal microscopy. It found distinct endothelial patterns that correlated with tumor grade\u2014pilocytic astrocytomas showed lacy small\u2011to\u2011medium vessels, low\u2011grade diffuse astrocytomas resembled normal tissue, while intermediate, anaplastic, and glioblastoma cases displayed increased vessel density, glomeruloid clusters, intimal hyperplasia, and loss of vessel wall integrity. The authors concluded that evaluating endothelial cell patterns aids in grading astrocytomas.",
+    "raw_generation": "Answer: YES\nExplanation: The study (PMID\u202f9427037) examined vascular patterns in astrocytomas using von\u202fWillebrand factor staining and confocal microscopy. It found distinct endothelial patterns that correlated with tumor grade\u2014pilocytic astrocytomas showed lacy small\u2011to\u2011medium vessels, low\u2011grade diffuse astrocytomas resembled normal tissue, while intermediate, anaplastic, and glioblastoma cases displayed increased vessel density, glomeruloid clusters, intimal hyperplasia, and loss of vessel wall integrity. The authors concluded that evaluating endothelial cell patterns aids in grading astrocytomas.",
+    "retrieval_latency_ms": 489.35139999957755,
+    "generation_latency_ms": 13972.046300012153,
+    "error": null,
+    "retrieved_pmids": [
+      "7707071",
+      "11907807",
+      "9427037",
+      "2174303",
+      "12624789"
+    ]
+  },
+  {
+    "pmid": "24481006",
+    "question": "Should cavitation in proximal surfaces be reported in cone beam computed tomography examination?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "CBCT was more accurate in detecting cavitation in proximal surfaces than bitewing radiographs; therefore a CBCT examination performed for other clinical applications should also be assessed for proximal surface cavities in teeth without restorations, and when detected, this pathology must be part of the dentist's report.",
+    "predicted_explanation": "The clinical study (Evidence\u202f1) found that CBCT is more accurate than bitewing radiographs for detecting cavitated proximal lesions and concluded that when a CBCT scan is performed for any reason, proximal surface cavitations should be evaluated and reported in the dentist\u2019s report.",
+    "raw_generation": "Answer: YES\nExplanation: The clinical study (Evidence\u202f1) found that CBCT is more accurate than bitewing radiographs for detecting cavitated proximal lesions and concluded that when a CBCT scan is performed for any reason, proximal surface cavitations should be evaluated and reported in the dentist\u2019s report.",
+    "retrieval_latency_ms": 871.4340999722481,
+    "generation_latency_ms": 9228.438699967228,
+    "error": null,
+    "retrieved_pmids": [
+      "24481006",
+      "16095777",
+      "21170532",
+      "28497937",
+      "19254051"
+    ]
+  },
+  {
+    "pmid": "8165771",
+    "question": "Ultrasound in squamous cell carcinoma of the penis; a useful addition to clinical staging?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "While ultrasound examination is inexpensive and easily done, it is not accurate enough for staging small penile cancers located at the glans penis. However, for larger tumors ultrasound can be a useful addition to physical examination by delineating reliably the anatomic relations of the tumor to structures such as the tunica albuginea, corpus cavernosum, and urethra.",
+    "predicted_explanation": "The study of 16 patients with penile squamous cell carcinoma found that while ultrasound could not reliably stage small glans tumors, it accurately identified invasion of the tunica albuginea and delineated tumor relations to the corpus cavernosum and urethra in larger lesions. The authors concluded that ultrasound, being inexpensive and easy, can be a useful addition to physical examination for staging larger penile cancers.",
+    "raw_generation": "Answer: YES\nExplanation: The study of 16 patients with penile squamous cell carcinoma found that while ultrasound could not reliably stage small glans tumors, it accurately identified invasion of the tunica albuginea and delineated tumor relations to the corpus cavernosum and urethra in larger lesions. The authors concluded that ultrasound, being inexpensive and easy, can be a useful addition to physical examination for staging larger penile cancers.",
+    "retrieval_latency_ms": 623.1931999791414,
+    "generation_latency_ms": 13389.587600016966,
+    "error": null,
+    "retrieved_pmids": [
+      "8165771",
+      "22508674",
+      "21489377",
+      "22334524",
+      "1933811"
+    ]
+  },
+  {
+    "pmid": "22680064",
+    "question": "Can third trimester ultrasound predict the presentation of the first twin at delivery?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "The presentation of the first twin at delivery can be determined by sonogram by the 32nd week of gestation in over 90% of twin pregnancies.",
+    "predicted_explanation": "A retrospective cohort study of 238 twin pregnancies found that ultrasound assessment of twin\u202fA\u2019s presentation after 28\u202fweeks had a 95\u202f% positive predictive value for cephalic presentation at delivery, and after 32\u202fweeks the PPV for non\u2011cephalic presentation exceeded 90\u202f%. The authors concluded that the presentation of the first twin at delivery can be predicted by sonogram by the 32nd week in over 90\u202f% of cases.",
+    "raw_generation": "Answer: YES\nExplanation: A retrospective cohort study of 238 twin pregnancies found that ultrasound assessment of twin\u202fA\u2019s presentation after 28\u202fweeks had a 95\u202f% positive predictive value for cephalic presentation at delivery, and after 32\u202fweeks the PPV for non\u2011cephalic presentation exceeded 90\u202f%. The authors concluded that the presentation of the first twin at delivery can be predicted by sonogram by the 32nd week in over 90\u202f% of cases.",
+    "retrieval_latency_ms": 539.1313000000082,
+    "generation_latency_ms": 14193.137400026899,
+    "error": null,
+    "retrieved_pmids": [
+      "22680064",
+      "18061592",
+      "9854117",
+      "7984194",
+      "14551795"
+    ]
+  },
+  {
+    "pmid": "22540518",
+    "question": "Is micro-computed tomography reliable to determine the microstructure of the maxillary alveolar bone?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "BV/TV assessed by micro-CT correlates with the percentage of bone assessed by conventional stereologic-based histomorphometry. Micro-CT is a reliable technique to determine the bone density and the microstructure of the maxillary alveolar bone at the site of dental implant insertion.",
+    "predicted_explanation": "The study titled \u201cIs micro\u2011computed tomography reliable to determine the microstructure of the maxillary alveolar bone?\u201d directly compared micro\u2011CT measurements with conventional stereologic histomorphometry and found strong positive correlations (e.g., r\u202f=\u202f0.933\u20130.950, P\u202f<\u202f0.001) for bone volumetric density and other microstructural parameters. The authors concluded that micro\u2011CT reliably determines bone density and microstructure of the maxillary alveolar bone at implant sites.",
+    "raw_generation": "Answer: YES\nExplanation: The study titled \u201cIs micro\u2011computed tomography reliable to determine the microstructure of the maxillary alveolar bone?\u201d directly compared micro\u2011CT measurements with conventional stereologic histomorphometry and found strong positive correlations (e.g., r\u202f=\u202f0.933\u20130.950, P\u202f<\u202f0.001) for bone volumetric density and other microstructural parameters. The authors concluded that micro\u2011CT reliably determines bone density and microstructure of the maxillary alveolar bone at implant sites.",
+    "retrieval_latency_ms": 518.9421999966726,
+    "generation_latency_ms": 17027.814999979455,
+    "error": null,
+    "retrieved_pmids": [
+      "22540518",
+      "20491811",
+      "24215741",
+      "22092972",
+      "31763249"
+    ]
+  },
+  {
+    "pmid": "20629769",
+    "question": "Is primary angioplasty an acceptable alternative to thrombolysis?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Reorganization of care to offer a primary angioplasty service was acceptable to patients and their carers. Satisfaction levels were high regardless of the type of care received, with the exception of discharge and aftercare.",
+    "predicted_explanation": "A mixed\u2011methods study comparing hospitals offering primary angioplasty with those offering thrombolysis found that reorganization to provide a primary angioplasty service was acceptable to patients and their carers, with high overall satisfaction (Evidence\u202f1).",
+    "raw_generation": "Answer: YES\nExplanation: A mixed\u2011methods study comparing hospitals offering primary angioplasty with those offering thrombolysis found that reorganization to provide a primary angioplasty service was acceptable to patients and their carers, with high overall satisfaction (Evidence\u202f1).",
+    "retrieval_latency_ms": 393.7121999915689,
+    "generation_latency_ms": 15097.843699972145,
+    "error": null,
+    "retrieved_pmids": [
+      "20629769",
+      "1746461",
+      "10607811",
+      "1837172",
+      "22155117"
+    ]
+  },
+  {
+    "pmid": "21726930",
+    "question": "Is endometrial polyp formation associated with increased expression of vascular endothelial growth factor and transforming growth factor-beta1?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "There was increased expression of TGF-\u03b21 and VEGF in polyps compared to adjacent normal endometrial tissue. It suggested that these cytokines might play a role in endometrial polyp formation. In addition, there was a significant correlation between steroid receptor expression and VEGF and TGF-\u03b21 expression.",
+    "predicted_explanation": "In a prospective study of 70 premenopausal women, the VEGF score in glandular cells of endometrial polyps was significantly higher than in adjacent endometrium (both proliferative and secretory phases), and the TGF\u2011\u03b21 score in glandular and stromal cells of polyps was also significantly higher than in adjacent tissue. The authors concluded that increased expression of VEGF and TGF\u2011\u03b21 is associated with endometrial polyp formation.",
+    "raw_generation": "Answer: YES  \nExplanation: In a prospective study of 70 premenopausal women, the VEGF score in glandular cells of endometrial polyps was significantly higher than in adjacent endometrium (both proliferative and secretory phases), and the TGF\u2011\u03b21 score in glandular and stromal cells of polyps was also significantly higher than in adjacent tissue. The authors concluded that increased expression of VEGF and TGF\u2011\u03b21 is associated with endometrial polyp formation.",
+    "retrieval_latency_ms": 1024.0150999743491,
+    "generation_latency_ms": 16362.141599995084,
+    "error": null,
+    "retrieved_pmids": [
+      "21726930",
+      "14551786",
+      "19117965",
+      "12411310",
+      "11116156"
+    ]
+  },
+  {
+    "pmid": "21481154",
+    "question": "Improvements in survival of gynaecological cancer in the Anglia region of England: are these an effect of centralisation of care and use of multidisciplinary management?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "The adoption of the 1999 guidance on gynaecological cancer, which included multidisciplinary case management and centralisation of surgery, resulted in a marked step-change improvement in survival of gynaecological cancer in an area of eastern England in 2000.",
+    "predicted_explanation": "The study of 3406 gynaecological cancer cases in the Anglia region (1996\u20112003) showed a significant survival improvement from 2000 onward (HR\u202f0.71, 95%\u202fCI\u202f0.64\u20110.79). This improvement coincided with the 1999 Department of Health guidance promoting multidisciplinary case management and centralisation of surgery, and adjustment for treatments did not diminish the effect, indicating that centralisation and multidisciplinary care contributed to the survival gains.",
+    "raw_generation": "Answer: YES\nExplanation: The study of 3406 gynaecological cancer cases in the Anglia region (1996\u20112003) showed a significant survival improvement from 2000 onward (HR\u202f0.71, 95%\u202fCI\u202f0.64\u20110.79). This improvement coincided with the 1999 Department of Health guidance promoting multidisciplinary case management and centralisation of surgery, and adjustment for treatments did not diminish the effect, indicating that centralisation and multidisciplinary care contributed to the survival gains.",
+    "retrieval_latency_ms": 5371.815399965271,
+    "generation_latency_ms": 9595.222199975979,
+    "error": null,
+    "retrieved_pmids": [
+      "21481154",
+      "28548479",
+      "19097883",
+      "16310906",
+      "28847853"
+    ]
+  },
+  {
+    "pmid": "22902073",
+    "question": "Estimated fetal weight by ultrasound: a modifiable risk factor for cesarean delivery?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Knowledge of US-EFW, above and beyond the impact of fetal size itself, increases the risk of CD. Acquisition of US-EFW near term appears to be an independent and potentially modifiable risk factor for CD.",
+    "predicted_explanation": "The retrospective cohort study (Evidence\u202f1) found that women who had an ultrasound\u2011estimated fetal weight (US\u2011EFW) within one month of delivery had a higher cesarean delivery rate (15.7% vs\u202f10.2%). After adjusting for confounders, US\u2011EFW remained an independent risk factor (adjusted odds ratio\u202f1.44; 95%\u202fCI\u202f1.1\u20111.9), with an even greater risk when the estimated weight exceeded 3500\u202fg (OR\u202f1.8). The authors concluded that knowledge of US\u2011EFW near term is an independent and potentially modifiable risk factor for cesarean delivery.",
+    "raw_generation": "Answer: YES\nExplanation: The retrospective cohort study (Evidence\u202f1) found that women who had an ultrasound\u2011estimated fetal weight (US\u2011EFW) within one month of delivery had a higher cesarean delivery rate (15.7% vs\u202f10.2%). After adjusting for confounders, US\u2011EFW remained an independent risk factor (adjusted odds ratio\u202f1.44; 95%\u202fCI\u202f1.1\u20111.9), with an even greater risk when the estimated weight exceeded 3500\u202fg (OR\u202f1.8). The authors concluded that knowledge of US\u2011EFW near term is an independent and potentially modifiable risk factor for cesarean delivery.",
+    "retrieval_latency_ms": 1249.5478000491858,
+    "generation_latency_ms": 12218.942900013644,
+    "error": null,
+    "retrieved_pmids": [
+      "22902073",
+      "22521460",
+      "29132221",
+      "22680064",
+      "21080309"
+    ]
+  },
+  {
+    "pmid": "26370095",
+    "question": "Are financial incentives cost-effective to support smoking cessation during pregnancy?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Financial incentives for smoking cessation in pregnancy are highly cost-effective, with an incremental cost per quality-adjusted life years of \u00a3482, which is well below recommended decision thresholds.",
+    "predicted_explanation": "The cost\u2011effectiveness analysis of a randomized trial (Evidence\u202f1) found that providing up to \u00a3400 in financial incentives to pregnant smokers yielded an incremental cost per quality\u2011adjusted life year of \u00a3482, well below typical decision thresholds, indicating that such incentives are highly cost\u2011effective for supporting smoking cessation during pregnancy.",
+    "raw_generation": "Answer: YES  \nExplanation: The cost\u2011effectiveness analysis of a randomized trial (Evidence\u202f1) found that providing up to \u00a3400 in financial incentives to pregnant smokers yielded an incremental cost per quality\u2011adjusted life year of \u00a3482, well below typical decision thresholds, indicating that such incentives are highly cost\u2011effective for supporting smoking cessation during pregnancy.",
+    "retrieval_latency_ms": 2516.4528000168502,
+    "generation_latency_ms": 15261.89040002646,
+    "error": null,
+    "retrieved_pmids": [
+      "26370095",
+      "18926608",
+      "21159726",
+      "28675331",
+      "18692285"
+    ]
+  },
+  {
+    "pmid": "18041059",
+    "question": "Do adjuvant aromatase inhibitors increase the cardiovascular risk in postmenopausal women with early breast cancer?",
+    "gold_label": "yes",
+    "predicted_label": "maybe",
+    "is_correct": false,
+    "gold_explanation": "According to the results from this meta-analysis, the risk of grade 3 and 4 CVAEs in patients who were receiving AIs was higher compared with the risk in patients who were receiving tamoxifen, and the difference reached statistical significance. However, the AD was relatively low, and from 160 to 180 patients had to be treated to produce 1 event.",
+    "predicted_explanation": "None of the supplied abstracts report data on cardiovascular outcomes associated with adjuvant aromatase inhibitor use in postmenopausal women with early breast cancer; therefore the evidence is insufficient to determine whether cardiovascular risk is increased.",
+    "raw_generation": "Answer: MAYBE\nExplanation: None of the supplied abstracts report data on cardiovascular outcomes associated with adjuvant aromatase inhibitor use in postmenopausal women with early breast cancer; therefore the evidence is insufficient to determine whether cardiovascular risk is increased.",
+    "retrieval_latency_ms": 3016.88120001927,
+    "generation_latency_ms": 15208.192399994005,
+    "error": null,
+    "retrieved_pmids": [
+      "16098456",
+      "2285580",
+      "18030614",
+      "2149503",
+      "18064563"
+    ]
+  },
+  {
+    "pmid": "15041506",
+    "question": "Is fear of anaphylactic shock discouraging surgeons from more widely adopting percutaneous and laparoscopic techniques in the treatment of liver hydatid cyst?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "The seemingly exaggerated traditional fear of anaphylaxis seems to discourage surgeons from more widely adopting minimal access techniques for the treatment of hydatid cyst.",
+    "predicted_explanation": "A survey of 30 surgeons in northern Jordan found that among the 27 who did not use percutaneous or laparoscopic methods for liver hydatid cysts, 21 (78%) cited fear of anaphylaxis and/or dissemination as the main reason for avoiding these minimal\u2011access techniques. The authors concluded that this exaggerated fear discourages wider adoption of such approaches. (Evidence\u202f1)",
+    "raw_generation": "Answer: YES\nExplanation: A survey of 30 surgeons in northern Jordan found that among the 27 who did not use percutaneous or laparoscopic methods for liver hydatid cysts, 21 (78%) cited fear of anaphylaxis and/or dissemination as the main reason for avoiding these minimal\u2011access techniques. The authors concluded that this exaggerated fear discourages wider adoption of such approaches. (Evidence\u202f1)",
+    "retrieval_latency_ms": 1263.0206999601796,
+    "generation_latency_ms": 11650.672299962025,
+    "error": null,
+    "retrieved_pmids": [
+      "15041506",
+      "11870474",
+      "18082448",
+      "11928040",
+      "18402806"
+    ]
+  },
+  {
+    "pmid": "11146778",
+    "question": "Risk stratification in emergency surgical patients: is the APACHE II score a reliable marker of physiological impairment?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "For risk stratification in emergency surgical patients, it is essential to measure the APACHE II score before surgical treatment. Longitudinal APACHE II scoring reveals continuous improvement of the score in surviving patients but has no therapeutic relevance in the individual patient.",
+    "predicted_explanation": "In an inception cohort of 85 emergency surgical patients, the pre\u2011operative APACHE\u202fII score accurately predicted observed mortality (32% vs predicted 34%) and was significantly lower than the score measured after ICU admission, indicating it reflects physiological impairment before treatment. The study concluded that measuring APACHE\u202fII before surgery is essential for risk stratification in this population. Additional data (e.g., emergency surgery cohort where APACHE\u202fII predicted mortality with an AUC of 0.70) support its predictive value. Thus, APACHE\u202fII is a reliable marker of physiological impairment for risk stratification in emergency surgical patients.",
+    "raw_generation": "Answer: YES\nExplanation: In an inception cohort of 85 emergency surgical patients, the pre\u2011operative APACHE\u202fII score accurately predicted observed mortality (32% vs predicted 34%) and was significantly lower than the score measured after ICU admission, indicating it reflects physiological impairment before treatment. The study concluded that measuring APACHE\u202fII before surgery is essential for risk stratification in this population. Additional data (e.g., emergency surgery cohort where APACHE\u202fII predicted mortality with an AUC of 0.70) support its predictive value. Thus, APACHE\u202fII is a reliable marker of physiological impairment for risk stratification in emergency surgical patients.",
+    "retrieval_latency_ms": 888.2108999532647,
+    "generation_latency_ms": 17655.287500005215,
+    "error": null,
+    "retrieved_pmids": [
+      "11146778",
+      "11178221",
+      "19181337",
+      "26199271",
+      "28718340"
+    ]
+  },
+  {
+    "pmid": "27281318",
+    "question": "Can Flexible Instruments Create Adequate Femoral Tunnel Lengths at 90\u00b0 of Knee Flexion in Anterior Cruciate Ligament Reconstruction?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "This study that shows that adequate femoral tunnel lengths can be safely created without knee hyperflex - ion using flexible instruments via an anteromedial portal.",
+    "predicted_explanation": "In a cadaveric study (PMID\u202f27281318), flexible reamers produced mean intra\u2011osseous femoral tunnel lengths of 32.1\u202fmm (range\u202f22\u201345\u202fmm) when the knee was flexed to 90\u00b0, exceeding the 20\u202fmm threshold for adequacy. The authors concluded that adequate tunnel lengths can be safely created at 90\u00b0 of flexion using flexible instruments.",
+    "raw_generation": "Answer: YES  \nExplanation: In a cadaveric study (PMID\u202f27281318), flexible reamers produced mean intra\u2011osseous femoral tunnel lengths of 32.1\u202fmm (range\u202f22\u201345\u202fmm) when the knee was flexed to 90\u00b0, exceeding the 20\u202fmm threshold for adequacy. The authors concluded that adequate tunnel lengths can be safely created at 90\u00b0 of flexion using flexible instruments.",
+    "retrieval_latency_ms": 815.8492000075057,
+    "generation_latency_ms": 16630.61170000583,
+    "error": null,
+    "retrieved_pmids": [
+      "27281318",
+      "26685687",
+      "26614426",
+      "25986096",
+      "26658569"
+    ]
+  },
+  {
+    "pmid": "21645374",
+    "question": "Do mitochondria play a role in remodelling lace plant leaves during programmed cell death?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Results depicted mitochondrial dynamics in vivo as PCD progresses within the lace plant, and highlight the correlation of this organelle with other organelles during developmental PCD. To the best of our knowledge, this is the first report of mitochondria and chloroplasts moving on transvacuolar strands to form a ring structure surrounding the nucleus during developmental PCD. Also, for the first time, we have shown the feasibility for the use of CsA in a whole plant system. Overall, our findings implicate the mitochondria as playing a critical and early role in developmentally regulated PCD in the lace plant.",
+    "predicted_explanation": "The study on the lace plant (Aponogeton madagascariensis) directly examined mitochondrial dynamics during developmental programmed cell death (PCD) in leaf areoles. It found that mitochondrial behavior (distribution, motility, membrane potential) correlates with stages of PCD, and that inhibiting mitochondrial permeability transition (with cyclosporine A) reduced leaf perforations. The authors conclude that mitochondria play a critical and early role in the remodeling of lace plant leaves during PCD.",
+    "raw_generation": "Answer: YES\nExplanation: The study on the lace plant (Aponogeton madagascariensis) directly examined mitochondrial dynamics during developmental programmed cell death (PCD) in leaf areoles. It found that mitochondrial behavior (distribution, motility, membrane potential) correlates with stages of PCD, and that inhibiting mitochondrial permeability transition (with cyclosporine A) reduced leaf perforations. The authors conclude that mitochondria play a critical and early role in the remodeling of lace plant leaves during PCD.",
+    "retrieval_latency_ms": 532.2234000195749,
+    "generation_latency_ms": 12068.108600040432,
+    "error": null,
+    "retrieved_pmids": [
+      "21645374",
+      "11706021",
+      "7703422",
+      "11687590",
+      "9973175"
+    ]
+  },
+  {
+    "pmid": "9465206",
+    "question": "\"Occult\" posttraumatic lesions of the knee: can magnetic resonance substitute for diagnostic arthroscopy?",
+    "gold_label": "yes",
+    "predicted_label": "no",
+    "is_correct": false,
+    "gold_explanation": "After comparing MR with arthroscopic findings and reviewing the available literature, we conclude that arthroscopy permits the direct visualization of even fine articular surface changes but does not depict the subchondral bone, the most frequent site of injury detected with MRI. MRI was a very useful tool in the detection and characterization of the different types of occult bone and/or cartilage injuries and showed a statistically significant correlation between site and distribution of bone and cartilage injuries and between internal damage and trauma mechanisms. Therefore, we believe that MRI can help avoid diagnostic arthroscopy in the patients with a history of post-traumatic pain, acute articular blocks and negative radiographic findings.",
+    "predicted_explanation": "The abstracts report that MRI can miss clinically important knee lesions. In a series of athletes with \u201cMRI\u2011negative\u201d bucket\u2011handle meniscal tears, all were found to have tears at arthroscopy, and the authors concluded that \u201carthroscopy remains the gold standard\u201d for assessment (Evidence\u202f2). Similarly, synovial haemangioma can be difficult to detect on MRI, and arthroscopy is emphasized as important for both diagnosis and treatment (Evidence\u202f1). Thus, magnetic resonance imaging cannot reliably substitute for diagnostic arthroscopy in detecting occult post\u2011traumatic knee lesions.",
+    "raw_generation": "Answer: NO  \nExplanation: The abstracts report that MRI can miss clinically important knee lesions. In a series of athletes with \u201cMRI\u2011negative\u201d bucket\u2011handle meniscal tears, all were found to have tears at arthroscopy, and the authors concluded that \u201carthroscopy remains the gold standard\u201d for assessment (Evidence\u202f2). Similarly, synovial haemangioma can be difficult to detect on MRI, and arthroscopy is emphasized as important for both diagnosis and treatment (Evidence\u202f1). Thus, magnetic resonance imaging cannot reliably substitute for diagnostic arthroscopy in detecting occult post\u2011traumatic knee lesions.",
+    "retrieval_latency_ms": 1207.7412999933586,
+    "generation_latency_ms": 9201.09109999612,
+    "error": null,
+    "retrieved_pmids": [
+      "16247588",
+      "16311767",
+      "27047818",
+      "1792152",
+      "26684438"
+    ]
+  },
+  {
+    "pmid": "25887165",
+    "question": "Does Sensation Return to the Nasal Tip After Microfat Grafting?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Postoperative numbness occurs in most patients receiving nasal microfat injections. Partial to complete recovery of nasal tip sensation can be expected to occur over a 3-month period.",
+    "predicted_explanation": "A prospective study of 30 women receiving nasal tip microfat injections reported that although most experienced postoperative numbness, the touch\u2011threshold values gradually returned toward pre\u2011operative levels over 12\u202fweeks, and the proportion of patients with paresthesia decreased to none. The authors concluded that partial to complete recovery of nasal tip sensation can be expected within a 3\u2011month period.",
+    "raw_generation": "Answer: YES\nExplanation: A prospective study of 30 women receiving nasal tip microfat injections reported that although most experienced postoperative numbness, the touch\u2011threshold values gradually returned toward pre\u2011operative levels over 12\u202fweeks, and the proportion of patients with paresthesia decreased to none. The authors concluded that partial to complete recovery of nasal tip sensation can be expected within a 3\u2011month period.",
+    "retrieval_latency_ms": 517.3329000244848,
+    "generation_latency_ms": 12995.900999987498,
+    "error": null,
+    "retrieved_pmids": [
+      "25887165",
+      "19058773",
+      "20926171",
+      "12750918",
+      "19038592"
+    ]
+  },
+  {
+    "pmid": "15995461",
+    "question": "Do some U.S. states have higher/lower injury mortality rates than others?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Group 1 states are likely to exhibit above-average rates for most other categories of injury death, whereas group 2 states are even more likely to exhibit below-average rates for most other categories of injury death.",
+    "predicted_explanation": "Evidence\u202f2 directly reports that U.S. states differ in injury mortality, finding that states with the highest road\u2011traffic death rates also have above\u2011average rates for many other injury categories, while states with the lowest road\u2011traffic death rates have below\u2011average rates. This demonstrates that some states have higher and others lower injury mortality rates. Evidence\u202f3 also notes marked variations in state\u2011specific motor\u2011vehicle injury death rates, reinforcing the presence of interstate differences.",
+    "raw_generation": "Answer: YES\nExplanation: Evidence\u202f2 directly reports that U.S. states differ in injury mortality, finding that states with the highest road\u2011traffic death rates also have above\u2011average rates for many other injury categories, while states with the lowest road\u2011traffic death rates have below\u2011average rates. This demonstrates that some states have higher and others lower injury mortality rates. Evidence\u202f3 also notes marked variations in state\u2011specific motor\u2011vehicle injury death rates, reinforcing the presence of interstate differences.",
+    "retrieval_latency_ms": 541.7305000009947,
+    "generation_latency_ms": 18300.76159996679,
+    "error": null,
+    "retrieved_pmids": [
+      "17829238",
+      "15995461",
+      "10634270",
+      "9920954",
+      "26611616"
+    ]
+  },
+  {
+    "pmid": "21850494",
+    "question": "Hepatorenal syndrome: are we missing some prognostic factors?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "We report for the first time ESLD etiology as a prognostic factor for survival. The renal function (expressed as serum creatinine) and urinary Na (<5 mEq/l) at the time of diagnosis were found to be associated with survival, suggesting that early treatment might increase survival.",
+    "predicted_explanation": "The study titled \u201cHepatorenal syndrome: are we missing some prognostic factors?\u201d examined 68 type\u202f1 HRS patients and identified previously unrecognized prognostic variables. It reported that end\u2011stage liver disease etiology, serum creatinine level, and low urinary sodium (<5\u202fmEq/L) at diagnosis were associated with survival, indicating that additional prognostic factors beyond those traditionally considered do exist.",
+    "raw_generation": "Answer: YES  \nExplanation: The study titled \u201cHepatorenal syndrome: are we missing some prognostic factors?\u201d examined 68 type\u202f1 HRS patients and identified previously unrecognized prognostic variables. It reported that end\u2011stage liver disease etiology, serum creatinine level, and low urinary sodium (<5\u202fmEq/L) at diagnosis were associated with survival, indicating that additional prognostic factors beyond those traditionally considered do exist.",
+    "retrieval_latency_ms": 479.92860001977533,
+    "generation_latency_ms": 13194.771700014826,
+    "error": null,
+    "retrieved_pmids": [
+      "21850494",
+      "23804969",
+      "26416696",
+      "9874462",
+      "26443969"
+    ]
+  },
+  {
+    "pmid": "19106867",
+    "question": "The Main Gate Syndrome: a new format in mass-casualty victim \"surge\" management?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Suicide bombing in crowded locations near an evacuation hospital may overwhelm the medical resources of the receiving center. It has been referred to as \"The Main Gate Syndrome.\" We introduced the novel concept of a semi-evacuation hospital or receiving center where a second surgical triage was carried out. These exceptional circumstances require open-minded flexibility, a tailored approach, and close cooperation between surgeons and anesthetists to share experience, opinions, and ideas. In the setting of mass casualties, emergency ultrasound exam was shown to be a valuable and effective tool by virtue of its mobility, reproducibility, and immediate results.",
+    "predicted_explanation": "The abstract titled \u201cThe Main Gate Syndrome: a new format in mass\u2011casualty victim \u2018surge\u2019 management?\u201d reports that the authors introduced a novel concept\u2014a semi\u2011evacuation hospital with a second surgical triage\u2014to address the overwhelming influx of severely injured patients after suicide bombings. This description identifies Main Gate Syndrome as a new format for managing mass\u2011casualty surges.",
+    "raw_generation": "Answer: YES\nExplanation: The abstract titled \u201cThe Main Gate Syndrome: a new format in mass\u2011casualty victim \u2018surge\u2019 management?\u201d reports that the authors introduced a novel concept\u2014a semi\u2011evacuation hospital with a second surgical triage\u2014to address the overwhelming influx of severely injured patients after suicide bombings. This description identifies Main Gate Syndrome as a new format for managing mass\u2011casualty surges.",
+    "retrieval_latency_ms": 1547.7866000146605,
+    "generation_latency_ms": 14264.298600028269,
+    "error": null,
+    "retrieved_pmids": [
+      "20541982",
+      "12473658",
+      "24426521",
+      "19106867",
+      "29294984"
+    ]
+  },
+  {
+    "pmid": "21342862",
+    "question": "Is EQ-5D a valid quality of life instrument in patients with acute coronary syndrome?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "The Turkish version of the EQ-5D-based utility score seems to be a valid instrument in the assessment of quality of life studies in patients with acute coronary syndrome.",
+    "predicted_explanation": "The study titled \u201cIs EQ-5D a valid quality of life instrument in patients with acute coronary syndrome?\u201d evaluated the Turkish version of EQ\u20115D in 122 ACS patients. Significant correlations were found between EQ\u20115D scores and the disease\u2011specific MacNew questionnaire (correlation coefficients 0.557\u20130.721, p\u202f<\u202f0.001), and regression analysis showed the MacNew global score significantly predicted EQ\u20115D index. The authors concluded that the EQ\u20115D utility score appears to be a valid instrument for assessing quality of life in ACS patients.",
+    "raw_generation": "Answer: YES\nExplanation: The study titled \u201cIs EQ-5D a valid quality of life instrument in patients with acute coronary syndrome?\u201d evaluated the Turkish version of EQ\u20115D in 122 ACS patients. Significant correlations were found between EQ\u20115D scores and the disease\u2011specific MacNew questionnaire (correlation coefficients 0.557\u20130.721, p\u202f<\u202f0.001), and regression analysis showed the MacNew global score significantly predicted EQ\u20115D index. The authors concluded that the EQ\u20115D utility score appears to be a valid instrument for assessing quality of life in ACS patients.",
+    "retrieval_latency_ms": 1100.393999950029,
+    "generation_latency_ms": 20546.168299973942,
+    "error": null,
+    "retrieved_pmids": [
+      "21342862",
+      "26254565",
+      "24076442",
+      "22051437",
+      "24343457"
+    ]
+  },
+  {
+    "pmid": "24352924",
+    "question": "Is portable ultrasonography accurate in the evaluation of Schanz pin placement during extremity fracture fixation in austere environments?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Despite the statistical imparity of pin protrusion measurement via ultrasound compared to that of gross dissection, a consideration of the clinical relevance of ultrasound measurement bias during an austere operating theatre leads to the conclusion that ultrasonography is an adequate methodology for Schanz pin protrusion measurement.",
+    "predicted_explanation": "In a cadaveric study, portable ultrasonography underestimated Schanz pin protrusion by about 10\u202f% but showed a strong linear correlation with direct measurements and was deemed clinically adequate for assessing pin placement in austere settings. Inter\u2011observer repeatability was also high, supporting its accuracy for this purpose.",
+    "raw_generation": "Answer: YES  \nExplanation: In a cadaveric study, portable ultrasonography underestimated Schanz pin protrusion by about 10\u202f% but showed a strong linear correlation with direct measurements and was deemed clinically adequate for assessing pin placement in austere settings. Inter\u2011observer repeatability was also high, supporting its accuracy for this purpose.",
+    "retrieval_latency_ms": 619.6067000273615,
+    "generation_latency_ms": 12933.057299989741,
+    "error": null,
+    "retrieved_pmids": [
+      "24352924",
+      "12682855",
+      "19171284",
+      "27011459",
+      "20101129"
+    ]
+  },
+  {
+    "pmid": "16147837",
+    "question": "Is grandmultiparity an independent risk factor for adverse perinatal outcomes?",
+    "gold_label": "yes",
+    "predicted_label": "maybe",
+    "is_correct": false,
+    "gold_explanation": "Grandmultiparous women had increased maternal and neonatal morbidity, and neonatal mortality even after controlling for confounders, suggesting a need for closer observation than regular multiparous patients during labor and delivery.",
+    "predicted_explanation": "None of the provided abstracts examine parity or grandmultiparity as a variable, nor assess its independent association with adverse perinatal outcomes. Without relevant evidence, we cannot determine whether grandmultiparity is an independent risk factor.",
+    "raw_generation": "Answer: MAYBE\nExplanation: None of the provided abstracts examine parity or grandmultiparity as a variable, nor assess its independent association with adverse perinatal outcomes. Without relevant evidence, we cannot determine whether grandmultiparity is an independent risk factor.",
+    "retrieval_latency_ms": 1326.2698000180535,
+    "generation_latency_ms": 14802.904599986505,
+    "error": null,
+    "retrieved_pmids": [
+      "29294630",
+      "28247485",
+      "22521460",
+      "21276532",
+      "18825499"
+    ]
+  },
+  {
+    "pmid": "26879871",
+    "question": "Does depression diagnosis and antidepressant prescribing vary by location?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "New depression diagnosis and antidepressant use was shown to be less likely in areas of higher own-ethnic density for some, but not all, ethnic groups.",
+    "predicted_explanation": "A large primary\u2011care study of over one million patients in four London boroughs found that new depression diagnoses and antidepressant prescriptions differed across locations, with lower odds of diagnosis and prescribing in areas of higher own\u2011ethnic density for several ethnic groups (evidence\u202f5). This demonstrates that both diagnosis and prescribing of antidepressants vary by geographic location.",
+    "raw_generation": "Answer: YES\nExplanation: A large primary\u2011care study of over one million patients in four London boroughs found that new depression diagnoses and antidepressant prescriptions differed across locations, with lower odds of diagnosis and prescribing in areas of higher own\u2011ethnic density for several ethnic groups (evidence\u202f5). This demonstrates that both diagnosis and prescribing of antidepressants vary by geographic location.",
+    "retrieval_latency_ms": 606.4517999766394,
+    "generation_latency_ms": 14356.474800035357,
+    "error": null,
+    "retrieved_pmids": [
+      "14685645",
+      "10624541",
+      "12629540",
+      "16939662",
+      "26879871"
+    ]
+  },
+  {
+    "pmid": "15918864",
+    "question": "Learning needs of postpartum women: does socioeconomic status matter?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "It is important to ensure that new mothers are adequately informed about topics important to them while in hospital. The findings highlight the need for accessible and appropriate community-based information resources for women in the postpartum period, especially for those of low socioeconomic status.",
+    "predicted_explanation": "The study titled \u201cLearning needs of postpartum women: does socioeconomic status matter?\u201d found that, although concerns were similar across groups, women of low socioeconomic status were significantly more likely to report unmet learning needs on the majority of topics (9 of 10) compared with women of higher socioeconomic status, indicating that socioeconomic status does affect postpartum learning needs.",
+    "raw_generation": "Answer: YES  \nExplanation: The study titled \u201cLearning needs of postpartum women: does socioeconomic status matter?\u201d found that, although concerns were similar across groups, women of low socioeconomic status were significantly more likely to report unmet learning needs on the majority of topics (9 of 10) compared with women of higher socioeconomic status, indicating that socioeconomic status does affect postpartum learning needs.",
+    "retrieval_latency_ms": 532.0397000177763,
+    "generation_latency_ms": 8739.2136999988,
+    "error": null,
+    "retrieved_pmids": [
+      "15918864",
+      "1758658",
+      "26602188",
+      "28810455",
+      "17870219"
+    ]
+  },
+  {
+    "pmid": "22075911",
+    "question": "Is there a differential in the dental health of new recruits to the British Armed Forces?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "A significant difference in dental health between recruits to each Service does exist and is a likely to be a reflection of the sociodemographic background from which they are drawn.",
+    "predicted_explanation": "A pilot study of 432 new recruits found that Army recruits had a significantly higher prevalence of dental decay and greater treatment needs compared with Royal Navy and Royal Air Force recruits, demonstrating a clear differential in dental health among the services.",
+    "raw_generation": "Answer: YES\nExplanation: A pilot study of 432 new recruits found that Army recruits had a significantly higher prevalence of dental decay and greater treatment needs compared with Royal Navy and Royal Air Force recruits, demonstrating a clear differential in dental health among the services.",
+    "retrieval_latency_ms": 1130.2596000023186,
+    "generation_latency_ms": 10944.94749995647,
+    "error": null,
+    "retrieved_pmids": [
+      "22075911",
+      "27680255",
+      "18246416",
+      "18985455",
+      "21170731"
+    ]
+  },
+  {
+    "pmid": "11035130",
+    "question": "Do patients with rheumatoid arthritis established on methotrexate and folic acid 5 mg daily need to continue folic acid supplements long term?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "It is important to continue FA supplementation over the long term in patients on methotrexate and FA in order to prevent them discontinuing treatment because of mouth ulcers or nausea and vomiting. Our data suggest that FA supplementation is also helpful in preventing neutropenia, with very little loss of efficacy of methotrexate.",
+    "predicted_explanation": "A prospective, randomized, double\u2011blind, placebo\u2011controlled trial in rheumatoid arthritis patients on methotrexate\u202f<\u202f20\u202fmg weekly and folic acid\u202f5\u202fmg daily showed that stopping folic acid led to higher rates of treatment discontinuation (especially due to mouth ulcers, nausea/vomiting, and neutropenia). The authors concluded that continued folic acid supplementation is important over the long term to prevent these toxicities, with minimal impact on methotrexate efficacy.",
+    "raw_generation": "Answer: YES\nExplanation: A prospective, randomized, double\u2011blind, placebo\u2011controlled trial in rheumatoid arthritis patients on methotrexate\u202f<\u202f20\u202fmg weekly and folic acid\u202f5\u202fmg daily showed that stopping folic acid led to higher rates of treatment discontinuation (especially due to mouth ulcers, nausea/vomiting, and neutropenia). The authors concluded that continued folic acid supplementation is important over the long term to prevent these toxicities, with minimal impact on methotrexate efficacy.",
+    "retrieval_latency_ms": 633.797999995295,
+    "generation_latency_ms": 16330.315799976233,
+    "error": null,
+    "retrieved_pmids": [
+      "11035130",
+      "23557540",
+      "17543431",
+      "22566245",
+      "2148614"
+    ]
+  },
+  {
+    "pmid": "21228436",
+    "question": "Can teaching medical students to investigate medication errors change their attitudes towards patient safety?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "An active learning curriculum integrated into a clinical clerkship can change learners' attitudes towards patient safety. Students found the curriculum relevant and recommended its continuation.",
+    "predicted_explanation": "In a study of 108 medical students who participated in a curriculum that required them to identify, analyze, and present medication errors using a structured \u201cLearning From Defects\u201d framework, significant improvements were observed in patient\u2011safety attitude scores derived from the Safety Attitudes Questionnaire. The authors concluded that this active learning curriculum integrated into a clinical clerkship can change learners\u2019 attitudes towards patient safety.",
+    "raw_generation": "Answer: YES\nExplanation: In a study of 108 medical students who participated in a curriculum that required them to identify, analyze, and present medication errors using a structured \u201cLearning From Defects\u201d framework, significant improvements were observed in patient\u2011safety attitude scores derived from the Safety Attitudes Questionnaire. The authors concluded that this active learning curriculum integrated into a clinical clerkship can change learners\u2019 attitudes towards patient safety.",
+    "retrieval_latency_ms": 471.01629996905103,
+    "generation_latency_ms": 13966.49109997088,
+    "error": null,
+    "retrieved_pmids": [
+      "21228436",
+      "22151624",
+      "21776584",
+      "17109187",
+      "25701102"
+    ]
+  },
+  {
+    "pmid": "11833948",
+    "question": "Does a delay in transfer to a rehabilitation unit for older people affect outcome after fracture of the proximal femur?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Delay in transfer to a rehabilitation ward was associated with a disproportionate increase in total hospital length of stay for patients aged over 75 with fracture of the proximal femur.",
+    "predicted_explanation": "In the observational study of patients\u202f>75\u202fyears with proximal femur fracture, each day of delay in transfer to a rehabilitation ward increased total hospital length of stay by 0.64\u202fdays (95\u202f%\u202fCI\u202f0.23\u20111.05). Thus, delay in transfer was associated with a worse outcome (longer hospital stay).",
+    "raw_generation": "Answer: YES\nExplanation: In the observational study of patients\u202f>75\u202fyears with proximal femur fracture, each day of delay in transfer to a rehabilitation ward increased total hospital length of stay by 0.64\u202fdays (95\u202f%\u202fCI\u202f0.23\u20111.05). Thus, delay in transfer was associated with a worse outcome (longer hospital stay).",
+    "retrieval_latency_ms": 516.6764999739826,
+    "generation_latency_ms": 12134.179300046526,
+    "error": null,
+    "retrieved_pmids": [
+      "11833948",
+      "15599494",
+      "27011459",
+      "27303562",
+      "27027009"
+    ]
+  },
+  {
+    "pmid": "17682349",
+    "question": "Are there gender differences in the reasons why African Americans delay in seeking medical help for symptoms of an acute myocardial infarction?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Women compared to men often delay seeking treatment for an AMI, which further increases their risks. Our findings suggest specific characteristics that can serve as a profile to those African Americans most likely to delay seeking treatment for AMI.",
+    "predicted_explanation": "The study of 61 African American men and women with acute myocardial infarction found that women had longer median pre\u2011hospital delays than men and that specific factors differed by gender (e.g., single women and women alone when symptoms began delayed longer; women who received advice to call 911 delayed less; men\u2019s delays were related to being at home, insurance status, and transport mode). These findings demonstrate gender differences in the reasons for delay.",
+    "raw_generation": "Answer: YES\nExplanation: The study of 61 African American men and women with acute myocardial infarction found that women had longer median pre\u2011hospital delays than men and that specific factors differed by gender (e.g., single women and women alone when symptoms began delayed longer; women who received advice to call 911 delayed less; men\u2019s delays were related to being at home, insurance status, and transport mode). These findings demonstrate gender differences in the reasons for delay.",
+    "retrieval_latency_ms": 1000.4978000069968,
+    "generation_latency_ms": 13230.714400007855,
+    "error": null,
+    "retrieved_pmids": [
+      "17682349",
+      "22078781",
+      "26721265",
+      "17898930",
+      "20884159"
+    ]
+  },
+  {
+    "pmid": "17355582",
+    "question": "Does ambulatory process of care predict health-related quality of life outcomes for patients with chronic disease?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "The use of instrumental variables allowed us to demonstrate a significant relationship between better ambulatory process of care and better health-related quality of life. This finding underscores the importance of efforts to improve the process of care.",
+    "predicted_explanation": "In a prospective cohort of 963 managed\u2011care patients with chronic disease, better ambulatory process\u2011of\u2011care scores were significantly associated with smaller declines in SF\u201112 physical component scores over 30 months (p\u202f=\u202f.014). This demonstrates that ambulatory process of care predicts health\u2011related quality of life outcomes.",
+    "raw_generation": "Answer: YES\nExplanation: In a prospective cohort of 963 managed\u2011care patients with chronic disease, better ambulatory process\u2011of\u2011care scores were significantly associated with smaller declines in SF\u201112 physical component scores over 30 months (p\u202f=\u202f.014). This demonstrates that ambulatory process of care predicts health\u2011related quality of life outcomes.",
+    "retrieval_latency_ms": 459.2661999631673,
+    "generation_latency_ms": 16043.905100028496,
+    "error": null,
+    "retrieved_pmids": [
+      "17355582",
+      "24164250",
+      "26500053",
+      "16386811",
+      "10634273"
+    ]
+  },
+  {
+    "pmid": "15597845",
+    "question": "Is the combination with 2-methoxyestradiol able to reduce the dosages of chemotherapeutices in the treatment of human ovarian cancer?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "2ME is able to enhance the antiproliferative activity of certain chemotherapeutics at pharmacological relevant concentrations. This estradiol metabolite is currently in a phase II trial in patients with refractary metastatic breast cancer and the tolerability has been shown to be very good. The combination of 2ME with chemotherapeutics may therefore offer a new clinically relevant treatment regimen for hormone-dependent cancer.",
+    "predicted_explanation": "In vitro studies showed that 2\u2011methoxyestradiol (2ME) produced a significant additive antiproliferative effect when combined with epirubicin and carboplatin at the lower concentration range of these chemotherapeutic agents, indicating that 2ME can enhance drug activity and potentially allow reduced chemotherapeutic dosages in human ovarian cancer cells.",
+    "raw_generation": "Answer: YES\nExplanation: In vitro studies showed that 2\u2011methoxyestradiol (2ME) produced a significant additive antiproliferative effect when combined with epirubicin and carboplatin at the lower concentration range of these chemotherapeutic agents, indicating that 2ME can enhance drug activity and potentially allow reduced chemotherapeutic dosages in human ovarian cancer cells.",
+    "retrieval_latency_ms": 2766.197499993723,
+    "generation_latency_ms": 13019.860100001097,
+    "error": null,
+    "retrieved_pmids": [
+      "15597845",
+      "21345578",
+      "20936324",
+      "14605824",
+      "10626812"
+    ]
+  },
+  {
+    "pmid": "10158597",
+    "question": "Does a dedicated discharge coordinator improve the quality of hospital discharge?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "The introduction of a discharge coordinator improved the quality of discharge planning, but at additional cost.",
+    "predicted_explanation": "In an intervention study (Evidence\u202f1), introducing a dedicated discharge coordinator led to an improved discharge planning process and a reduction in problems experienced by patients after discharge, indicating enhanced quality of hospital discharge. Additional support comes from a pilot program where dedicated case managers (a form of discharge coordinator) improved completion of pre\u2011discharge instructions and patient satisfaction (Evidence\u202f4).",
+    "raw_generation": "Answer: YES\nExplanation: In an intervention study (Evidence\u202f1), introducing a dedicated discharge coordinator led to an improved discharge planning process and a reduction in problems experienced by patients after discharge, indicating enhanced quality of hospital discharge. Additional support comes from a pilot program where dedicated case managers (a form of discharge coordinator) improved completion of pre\u2011discharge instructions and patient satisfaction (Evidence\u202f4).",
+    "retrieval_latency_ms": 426.8877999857068,
+    "generation_latency_ms": 12234.348300029524,
+    "error": null,
+    "retrieved_pmids": [
+      "10158597",
+      "16198219",
+      "20646093",
+      "16084920",
+      "24341439"
+    ]
+  },
+  {
+    "pmid": "27549226",
+    "question": "Impact of MPH programs: contributing to health system strengthening in low- and middle-income countries?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "There was considerable impact at many levels; graduates were perceived to be able to contribute significantly to their workplaces and often had influence at the national level. Much of the impact described was in line with public health educational aims. The qualitative method study revealed more in-depth understanding of graduates' impact as well as their career pathways.",
+    "predicted_explanation": "The qualitative study of two MPH programs (one distance, one residential) involving graduates working in low\u2011 and middle\u2011income health systems reported considerable impact on workplaces and broader health system functions. Graduates assumed leadership roles, introduced innovations, engaged in policy advisory work, and contributed to capacity building at national levels, indicating that MPH training can strengthen health systems in LMICs. (Evidence\u202f1)",
+    "raw_generation": "Answer: YES  \nExplanation: The qualitative study of two MPH programs (one distance, one residential) involving graduates working in low\u2011 and middle\u2011income health systems reported considerable impact on workplaces and broader health system functions. Graduates assumed leadership roles, introduced innovations, engaged in policy advisory work, and contributed to capacity building at national levels, indicating that MPH training can strengthen health systems in LMICs. (Evidence\u202f1)",
+    "retrieval_latency_ms": 812.8809999907389,
+    "generation_latency_ms": 14022.363600030076,
+    "error": null,
+    "retrieved_pmids": [
+      "27549226",
+      "29031690",
+      "26092654",
+      "25311479",
+      "22087040"
+    ]
+  },
+  {
+    "pmid": "26348845",
+    "question": "Pap smears with glandular cell abnormalities: Are they detected by rapid prescreening?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Pap smears with glandular cell abnormalities are often flagged as abnormal by RPS, and this results in a sensitivity of 36.4% (at the AGC threshold). Most importantly, some cases of AGC are detected on Pap smears by RPS only, and this demonstrates that RPS is a valuable QA method.",
+    "predicted_explanation": "In a study of 80,565 Pap smears, rapid prescreening (RPS) flagged 36.4% of samples that had glandular cell abnormalities (\u2265AGC). Moreover, 11 AGC cases were identified by RPS only, demonstrating that RPS can detect glandular abnormalities, though sensitivity is modest. (Evidence\u202f1).",
+    "raw_generation": "Answer: YES  \nExplanation: In a study of 80,565 Pap smears, rapid prescreening (RPS) flagged 36.4% of samples that had glandular cell abnormalities (\u2265AGC). Moreover, 11 AGC cases were identified by RPS only, demonstrating that RPS can detect glandular abnormalities, though sensitivity is modest. (Evidence\u202f1).",
+    "retrieval_latency_ms": 839.353600051254,
+    "generation_latency_ms": 20139.227300009225,
+    "error": null,
+    "retrieved_pmids": [
+      "26348845",
+      "22807384",
+      "10603188",
+      "9915133",
+      "2284697"
+    ]
+  },
+  {
+    "pmid": "25588461",
+    "question": "Can transcranial direct current stimulation be useful in differentiating unresponsive wakefulness syndrome from minimally conscious state patients?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "a-tDCS could be useful in identifying residual connectivity markers in clinically-defined UWS, who may lack of purposeful behavior as a result of a motor-output failure.",
+    "predicted_explanation": "Evidence 1 reports that anodal transcranial direct current stimulation (a\u2011tDCS) over the orbitofrontal cortex increased cortical connectivity and excitability in healthy controls and minimally conscious state (MCS) patients, and importantly \u201cunmasked\u201d such excitability/connectivity in some unresponsive wakefulness syndrome (UWS) patients. The authors conclude that a\u2011tDCS could be useful in identifying residual connectivity markers in clinically defined UWS, implying it can help differentiate UWS from MCS.",
+    "raw_generation": "Answer: YES\nExplanation: Evidence 1 reports that anodal transcranial direct current stimulation (a\u2011tDCS) over the orbitofrontal cortex increased cortical connectivity and excitability in healthy controls and minimally conscious state (MCS) patients, and importantly \u201cunmasked\u201d such excitability/connectivity in some unresponsive wakefulness syndrome (UWS) patients. The authors conclude that a\u2011tDCS could be useful in identifying residual connectivity markers in clinically defined UWS, implying it can help differentiate UWS from MCS.",
+    "retrieval_latency_ms": 1408.1161000067368,
+    "generation_latency_ms": 11084.04149999842,
+    "error": null,
+    "retrieved_pmids": [
+      "25588461",
+      "28712840",
+      "28938852",
+      "7696593",
+      "15935700"
+    ]
+  },
+  {
+    "pmid": "23359100",
+    "question": "Is etoricoxib effective in preventing heterotopic ossification after primary total hip arthroplasty?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Etoricoxib seems effective in preventing heterotopic ossification after total hip arthroplasty. This finding further supports the use of COX-2 inhibitors for the prevention of heterotopic ossification following total hip arthroplasty.",
+    "predicted_explanation": "A prospective study of 42 patients undergoing primary total hip arthroplasty found that oral etoricoxib 90\u202fmg for seven days resulted in no heterotopic ossification in 62\u202f% of patients, with only low\u2011grade (Brooker\u202f1\u20132) ossification in the remainder. The authors concluded that etoricoxib appears effective for preventing heterotopic ossification after total hip arthroplasty.",
+    "raw_generation": "Answer: YES\nExplanation: A prospective study of 42 patients undergoing primary total hip arthroplasty found that oral etoricoxib 90\u202fmg for seven days resulted in no heterotopic ossification in 62\u202f% of patients, with only low\u2011grade (Brooker\u202f1\u20132) ossification in the remainder. The authors concluded that etoricoxib appears effective for preventing heterotopic ossification after total hip arthroplasty.",
+    "retrieval_latency_ms": 492.4142000381835,
+    "generation_latency_ms": 10078.228800033685,
+    "error": null,
+    "retrieved_pmids": [
+      "23359100",
+      "19056213",
+      "21779765",
+      "19056216",
+      "19056219"
+    ]
+  },
+  {
+    "pmid": "26548832",
+    "question": "Assessing Patient Reported Outcomes Measures via Phone Interviews Versus Patient Self-Survey in the Clinic: Are We Measuring the Same Thing?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Our study suggests that there is great reliability between PRO data captured between FTE-dependent and non-FTE-dependent methodologies.",
+    "predicted_explanation": "The prospective study of 119 lumbar fusion patients directly compared PROs obtained by phone interview (FTE\u2011dependent) with those obtained by self\u2011survey in the clinic (non\u2011FTE\u2011dependent). Baseline scores on the Oswestry Disability Index and visual analog scales for back and leg pain showed high correlations (ODI r\u202f=\u202f\u20110.89, VAS\u2011BP r\u202f=\u202f0.74, VAS\u2011LP r\u202f=\u202f0.70) and no statistically significant differences between the two methods (P\u202f>\u202f0.35 for all measures). The authors concluded that the two approaches provide highly reliable and essentially equivalent measurements.",
+    "raw_generation": "Answer: YES\nExplanation: The prospective study of 119 lumbar fusion patients directly compared PROs obtained by phone interview (FTE\u2011dependent) with those obtained by self\u2011survey in the clinic (non\u2011FTE\u2011dependent). Baseline scores on the Oswestry Disability Index and visual analog scales for back and leg pain showed high correlations (ODI r\u202f=\u202f\u20110.89, VAS\u2011BP r\u202f=\u202f0.74, VAS\u2011LP r\u202f=\u202f0.70) and no statistically significant differences between the two methods (P\u202f>\u202f0.35 for all measures). The authors concluded that the two approaches provide highly reliable and essentially equivalent measurements.",
+    "retrieval_latency_ms": 809.731199988164,
+    "generation_latency_ms": 16331.625400052872,
+    "error": null,
+    "retrieved_pmids": [
+      "26548832",
+      "10922093",
+      "26670949",
+      "29283270",
+      "16968876"
+    ]
+  },
+  {
+    "pmid": "25756710",
+    "question": "Can emergency physicians accurately and reliably assess acute vertigo in the emergency department?",
+    "gold_label": "yes",
+    "predicted_label": "maybe",
+    "is_correct": false,
+    "gold_explanation": "In the hands of EPs, STANDING showed a good inter-observer agreement and accuracy validated against the local standard of care.",
+    "predicted_explanation": "The provided abstracts discuss emergency physicians\u2019 roles in heart failure, cardiac syndromes, somatic psychiatric presentations, complementary medicine, and angioedema, but none address the assessment of acute vertigo or the accuracy and reliability of such assessments in the emergency department. Consequently, there is insufficient evidence to determine a definitive YES or NO.",
+    "raw_generation": "Answer: MAYBE\nExplanation: The provided abstracts discuss emergency physicians\u2019 roles in heart failure, cardiac syndromes, somatic psychiatric presentations, complementary medicine, and angioedema, but none address the assessment of acute vertigo or the accuracy and reliability of such assessments in the emergency department. Consequently, there is insufficient evidence to determine a definitive YES or NO.",
+    "retrieval_latency_ms": 434.0972999925725,
+    "generation_latency_ms": 11019.399500044528,
+    "error": null,
+    "retrieved_pmids": [
+      "26265736",
+      "20580877",
+      "8578151",
+      "18757155",
+      "18486406"
+    ]
+  },
+  {
+    "pmid": "20297950",
+    "question": "Proof of concept study: does fenofibrate have a role in sleep apnoea syndrome?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "The consistent direction of change in sleep indices in this proof-of-concept study may support further investigation of fenofibrate in moderate to severe sleep apnoea syndrome.",
+    "predicted_explanation": "In the proof\u2011of\u2011concept trial (34 participants, 4\u2011week double\u2011blind), fenofibrate significantly reduced the percentage of sleep time with arterial oxygen saturation\u202f<\u202f90\u202f% (9.0\u202f%\u21923.5\u202f% vs. placebo 10.0\u202f%\u219211.5\u202f%, p\u202f=\u202f0.007), lowered obstructive apnoeas by 44\u202f% (p\u202f=\u202f0.048) and decreased non\u2011cortical micro\u2011awakenings (p\u202f=\u202f0.004). Although the overall apnoea\u2011hypopnoea index did not change significantly, these improvements in key sleep\u2011related outcomes suggest fenofibrate may have a therapeutic role in sleep apnoea syndrome and warrant further investigation.",
+    "raw_generation": "Answer: YES  \nExplanation: In the proof\u2011of\u2011concept trial (34 participants, 4\u2011week double\u2011blind), fenofibrate significantly reduced the percentage of sleep time with arterial oxygen saturation\u202f<\u202f90\u202f% (9.0\u202f%\u21923.5\u202f% vs. placebo 10.0\u202f%\u219211.5\u202f%, p\u202f=\u202f0.007), lowered obstructive apnoeas by 44\u202f% (p\u202f=\u202f0.048) and decreased non\u2011cortical micro\u2011awakenings (p\u202f=\u202f0.004). Although the overall apnoea\u2011hypopnoea index did not change significantly, these improvements in key sleep\u2011related outcomes suggest fenofibrate may have a therapeutic role in sleep apnoea syndrome and warrant further investigation.",
+    "retrieval_latency_ms": 403.7669000099413,
+    "generation_latency_ms": 13619.877699995413,
+    "error": null,
+    "retrieved_pmids": [
+      "20297950",
+      "2251627",
+      "24533368",
+      "24533359",
+      "7712960"
+    ]
+  },
+  {
+    "pmid": "24622801",
+    "question": "Does implant coating with antibacterial-loaded hydrogel reduce bacterial colonization and biofilm formation in vitro?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Implant coating with an antibacterial-loaded hydrogel reduces bacterial colonization and biofilm formation in vitro.",
+    "predicted_explanation": "The study on the Disposable Antibacterial Coating (DAC) hydrogel demonstrated that coating implants with an antibacterial\u2011loaded hydrogel achieved bactericidal and antibiofilm effects in vitro, explicitly concluding that \u201cImplant coating with an antibacterial-loaded hydrogel reduces bacterial colonization and biofilm formation in vitro.\u201d",
+    "raw_generation": "Answer: YES\nExplanation: The study on the Disposable Antibacterial Coating (DAC) hydrogel demonstrated that coating implants with an antibacterial\u2011loaded hydrogel achieved bactericidal and antibiofilm effects in vitro, explicitly concluding that \u201cImplant coating with an antibacterial-loaded hydrogel reduces bacterial colonization and biofilm formation in vitro.\u201d",
+    "retrieval_latency_ms": 387.63850001851097,
+    "generation_latency_ms": 15746.45789997885,
+    "error": null,
+    "retrieved_pmids": [
+      "24622801",
+      "26549303",
+      "22150723",
+      "19135292",
+      "16202580"
+    ]
+  },
+  {
+    "pmid": "9722752",
+    "question": "Does bone anchor fixation improve the outcome of percutaneous bladder neck suspension in female stress urinary incontinence?",
+    "gold_label": "yes",
+    "predicted_label": "no",
+    "is_correct": false,
+    "gold_explanation": "The poor success rate in the study corresponds with the long-term results of conventional or modified needle suspension procedures and does not reinforce the optimistic results of bone anchoring published recently. Because of the poorer long-term results from percutaneous needle suspension than from other techniques of open retropubic bladder neck suspension, it remains questionable whether percutaneous needle suspension should be considered a first-line procedure for the treatment of female stress urinary incontinence.",
+    "predicted_explanation": "In the study of 37 women undergoing percutaneous bladder neck suspension with a bone\u2011anchor system, only 68\u202f% had a successful outcome (43\u202f% completely dry, 24\u202f% significantly improved). The authors concluded that this \u201cpoor success rate\u2026 corresponds with the long\u2011term results of conventional or modified needle suspension procedures and does not reinforce the optimistic results of bone anchoring,\u201d indicating that bone\u2011anchor fixation does not improve outcomes.",
+    "raw_generation": "Answer: NO\nExplanation: In the study of 37 women undergoing percutaneous bladder neck suspension with a bone\u2011anchor system, only 68\u202f% had a successful outcome (43\u202f% completely dry, 24\u202f% significantly improved). The authors concluded that this \u201cpoor success rate\u2026 corresponds with the long\u2011term results of conventional or modified needle suspension procedures and does not reinforce the optimistic results of bone anchoring,\u201d indicating that bone\u2011anchor fixation does not improve outcomes.",
+    "retrieval_latency_ms": 413.3074000128545,
+    "generation_latency_ms": 17230.254800000694,
+    "error": null,
+    "retrieved_pmids": [
+      "9722752",
+      "16337072",
+      "12811491",
+      "9863850",
+      "24809662"
+    ]
+  },
+  {
+    "pmid": "20577124",
+    "question": "Is leptin involved in phagocytic NADPH oxidase overactivity in obesity?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "These findings show that phagocytic NADPH oxidase activity is increased in obesity and is related to preclinical atherosclerosis in this condition. We also suggest that hyperleptinemia may contribute to phagocytic NADPH oxidase overactivity in obesity.",
+    "predicted_explanation": "The study of 164 obese patients found that both plasma leptin levels and phagocytic NADPH oxidase activity were elevated and positively correlated. In vitro experiments showed that leptin directly induced NADPH oxidase activation in human mononuclear cells and murine macrophages, and this effect was blocked by pathway inhibitors, indicating a mechanistic role of leptin in the oxidase overactivity observed in obesity.",
+    "raw_generation": "Answer: YES\nExplanation: The study of 164 obese patients found that both plasma leptin levels and phagocytic NADPH oxidase activity were elevated and positively correlated. In vitro experiments showed that leptin directly induced NADPH oxidase activation in human mononuclear cells and murine macrophages, and this effect was blocked by pathway inhibitors, indicating a mechanistic role of leptin in the oxidase overactivity observed in obesity.",
+    "retrieval_latency_ms": 288.2017999654636,
+    "generation_latency_ms": 13038.712800014764,
+    "error": null,
+    "retrieved_pmids": [
+      "20577124",
+      "1798294",
+      "17669522",
+      "11098048",
+      "14656766"
+    ]
+  },
+  {
+    "pmid": "19027440",
+    "question": "Can we predict which head and neck cancer survivors develop fears of recurrence?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Although components of the CSM (cognitive and emotional representations, coping strategies) were associated with fears of recurrence, optimism was found to be the strongest predictor of fear, independent of anxiety and level of fear reported prior to treatment.",
+    "predicted_explanation": "A prospective study of head and neck cancer patients found that fear of recurrence after treatment was directly predicted by pre\u2011treatment levels of fear and by optimism, while demographic, disease, treatment, and symptom factors were not predictive. This demonstrates that certain baseline psychological factors can be used to predict which survivors will develop fears of recurrence.",
+    "raw_generation": "Answer: YES\nExplanation: A prospective study of head and neck cancer patients found that fear of recurrence after treatment was directly predicted by pre\u2011treatment levels of fear and by optimism, while demographic, disease, treatment, and symptom factors were not predictive. This demonstrates that certain baseline psychological factors can be used to predict which survivors will develop fears of recurrence.",
+    "retrieval_latency_ms": 605.0027999444865,
+    "generation_latency_ms": 12043.196999991778,
+    "error": null,
+    "retrieved_pmids": [
+      "19027440",
+      "14666383",
+      "28840760",
+      "9874465",
+      "25941198"
+    ]
+  },
+  {
+    "pmid": "18239988",
+    "question": "Differentiation of nonalcoholic from alcoholic steatohepatitis: are routine laboratory markers useful?",
+    "gold_label": "yes",
+    "predicted_label": "no",
+    "is_correct": false,
+    "gold_explanation": "Higher MCVs and AST/ALT ratios in ASH reflect the severity of underlying liver disease and do not differentiate NASH from ASH. Instead, these biomarkers might prove useful in guiding selection of patients for liver biopsy and in targeting therapy.",
+    "predicted_explanation": "In a study of 95 patients with steatohepatitis, routine laboratory parameters such as mean corpuscular volume (MCV) and the AST/ALT ratio were higher in alcoholic steatohepatitis (ASH) but reflected disease severity rather than providing a reliable distinction from non\u2011alcoholic steatohepatitis (NASH). The authors concluded that these routine biomarkers do not differentiate NASH from ASH. (Evidence\u202f1).",
+    "raw_generation": "Answer: NO\nExplanation: In a study of 95 patients with steatohepatitis, routine laboratory parameters such as mean corpuscular volume (MCV) and the AST/ALT ratio were higher in alcoholic steatohepatitis (ASH) but reflected disease severity rather than providing a reliable distinction from non\u2011alcoholic steatohepatitis (NASH). The authors concluded that these routine biomarkers do not differentiate NASH from ASH. (Evidence\u202f1).",
+    "retrieval_latency_ms": 437.6602999982424,
+    "generation_latency_ms": 13152.346200018656,
+    "error": null,
+    "retrieved_pmids": [
+      "18239988",
+      "21195430",
+      "10653467",
+      "21559749",
+      "10630525"
+    ]
+  },
+  {
+    "pmid": "27858166",
+    "question": "Traumatic aortic injury: does the anatomy of the aortic arch influence aortic trauma severity?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "The severity of TAI is influenced by the sharpness of the aortic arch. There is an inverse relationship between the severity of aortic injury and the aortic arch index.",
+    "predicted_explanation": "A retrospective study of 22 patients treated for traumatic aortic injury measured the aortic arch angle and arch index on initial CT scans. The results showed that smaller arch angles and lower arch indices were associated with more severe injury types (III and IV). Multivariate analysis confirmed that the aortic arch angle was significantly associated with the occurrence of type\u202fIII damage (OR\u202f1.5; 95%\u202fCI\u202f1.03\u20112.2), indicating that the anatomy of the aortic arch influences trauma severity.",
+    "raw_generation": "Answer: YES\nExplanation: A retrospective study of 22 patients treated for traumatic aortic injury measured the aortic arch angle and arch index on initial CT scans. The results showed that smaller arch angles and lower arch indices were associated with more severe injury types (III and IV). Multivariate analysis confirmed that the aortic arch angle was significantly associated with the occurrence of type\u202fIII damage (OR\u202f1.5; 95%\u202fCI\u202f1.03\u20112.2), indicating that the anatomy of the aortic arch influences trauma severity.",
+    "retrieval_latency_ms": 331.69389999238774,
+    "generation_latency_ms": 12206.55339997029,
+    "error": null,
+    "retrieved_pmids": [
+      "27858166",
+      "11870446",
+      "12042954",
+      "22118924",
+      "12607666"
+    ]
+  },
+  {
+    "pmid": "27050489",
+    "question": "The Prevalence of Incidentally Detected Idiopathic Misty Mesentery on\u00a0Multidetector Computed Tomography: Can Obesity Be the Triggering Cause?",
+    "gold_label": "yes",
+    "predicted_label": "maybe",
+    "is_correct": false,
+    "gold_explanation": "The results of the present study show that idiopathic incidental misty mesentery appearance has a significant prevalence. Also, the high body mass index of these patients and the growing evidence of obesity-induced inflammatory changes in adipose tissue are suggestive of an association between obesity and misty mesentery appearance on CT.",
+    "predicted_explanation": "The study found that 67.5% of patients with incidentally detected idiopathic misty mesentery were obese and suggested that the high body\u2011mass index may be associated with this CT finding. However, the authors only report an association and do not provide definitive proof that obesity directly triggers misty mesentery, so the evidence is insufficient to conclusively answer \u201cyes.\u201d",
+    "raw_generation": "Answer: MAYBE\nExplanation: The study found that 67.5% of patients with incidentally detected idiopathic misty mesentery were obese and suggested that the high body\u2011mass index may be associated with this CT finding. However, the authors only report an association and do not provide definitive proof that obesity directly triggers misty mesentery, so the evidence is insufficient to conclusively answer \u201cyes.\u201d",
+    "retrieval_latency_ms": 615.9802000038326,
+    "generation_latency_ms": 9316.593800031114,
+    "error": null,
+    "retrieved_pmids": [
+      "27050489",
+      "17707930",
+      "27307860",
+      "23769746",
+      "22009147"
+    ]
+  },
+  {
+    "pmid": "16266387",
+    "question": "Fast foods - are they a risk factor for asthma?",
+    "gold_label": "yes",
+    "predicted_label": "maybe",
+    "is_correct": false,
+    "gold_explanation": "Frequent consumption of hamburgers showed a dose-dependent association with asthma symptoms, and frequent takeaway consumption showed a similar association with BHR.",
+    "predicted_explanation": "The provided abstracts discuss various asthma risk factors such as socioeconomic status, allergic rhinitis, and dietary components (e.g., whole grains and fish) but none specifically examine fast\u2011food consumption as a risk factor for asthma. Because the evidence does not address fast foods directly, we cannot determine a definitive yes or no answer.",
+    "raw_generation": "Answer: MAYBE\nExplanation: The provided abstracts discuss various asthma risk factors such as socioeconomic status, allergic rhinitis, and dietary components (e.g., whole grains and fish) but none specifically examine fast\u2011food consumption as a risk factor for asthma. Because the evidence does not address fast foods directly, we cannot determine a definitive yes or no answer.",
+    "retrieval_latency_ms": 670.7890999969095,
+    "generation_latency_ms": 15060.685199976433,
+    "error": null,
+    "retrieved_pmids": [
+      "20546818",
+      "11686864",
+      "16244092",
+      "31763225",
+      "16809243"
+    ]
+  },
+  {
+    "pmid": "27287237",
+    "question": "Assessment of appropriate antimicrobial prescribing: do experts agree?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Doctors specialized in infectious diseases and clinical microbiology assess the appropriateness of antimicrobials prescribed for a broad spectrum of indications with acceptable agreement and validity, regardless of their experience or hospital of employment. However, there is room for improvement, which merits attention in multidisciplinary discussions and education.",
+    "predicted_explanation": "The study of 24 infectious disease and microbiology doctors found that specialists agreed with a reference standard (modal expert opinion) in 80% of cases and with an index expert in 76% of cases, demonstrating acceptable overall agreement among experts on antimicrobial prescribing appropriateness.",
+    "raw_generation": "Answer: YES\nExplanation: The study of 24 infectious disease and microbiology doctors found that specialists agreed with a reference standard (modal expert opinion) in 80% of cases and with an index expert in 76% of cases, demonstrating acceptable overall agreement among experts on antimicrobial prescribing appropriateness.",
+    "retrieval_latency_ms": 381.36840000515804,
+    "generation_latency_ms": 9961.64829999907,
+    "error": null,
+    "retrieved_pmids": [
+      "27287237",
+      "31338173",
+      "20197761",
+      "1809123",
+      "27680254"
+    ]
+  },
+  {
+    "pmid": "11079675",
+    "question": "Pulmonary valve replacement in adults late after repair of tetralogy of fallot: are we operating too late?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Right ventricular recovery following PVR for chronic significant pulmonary regurgitation after repair of TOF may be compromised in the adult population. In order to maintain adequate RV contractility, pulmonary valve implant in these patients should be considered before RV function deteriorates.",
+    "predicted_explanation": "The study of 25 adult patients undergoing pulmonary valve replacement (PVR) after late repair of tetralogy of Fallot found that right\u2011ventricular volumes and ejection fraction did not improve after surgery, and only patients with relatively preserved pre\u2011operative RV function maintained it post\u2011operatively. The authors concluded that RV recovery after PVR is often compromised in adults and that valve implantation should be performed before RV function deteriorates, indicating that current practice may be operating too late.",
+    "raw_generation": "Answer: YES\nExplanation: The study of 25 adult patients undergoing pulmonary valve replacement (PVR) after late repair of tetralogy of Fallot found that right\u2011ventricular volumes and ejection fraction did not improve after surgery, and only patients with relatively preserved pre\u2011operative RV function maintained it post\u2011operatively. The authors concluded that RV recovery after PVR is often compromised in adults and that valve implantation should be performed before RV function deteriorates, indicating that current practice may be operating too late.",
+    "retrieval_latency_ms": 769.8207999928854,
+    "generation_latency_ms": 13482.655100000557,
+    "error": null,
+    "retrieved_pmids": [
+      "11079675",
+      "1744959",
+      "12360387",
+      "28933244",
+      "19119074"
+    ]
+  },
+  {
+    "pmid": "10331115",
+    "question": "Is amoxapine an atypical antipsychotic?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "PET data show that amoxapine's profile is very similar to that of the established atypical antipsychotics. These data, together with amoxapine's in vitro pharmacologic profile, effectiveness in animal models, and efficacy in psychotic depression raise the possibility of amoxapine as an \"atypical\" antipsychotic agent in the treatment of schizophrenia.",
+    "predicted_explanation": "A PET study (Evidence\u202f1) demonstrated that amoxapine produces high 5\u2011HT\u2082 receptor occupancy exceeding dopamine D\u2082 occupancy, with D\u2082 occupancy never exceeding 80\u202f%\u2014a pharmacologic profile characteristic of atypical antipsychotics. The authors conclude that amoxapine\u2019s profile is very similar to established atypical agents and suggest it may be considered an \u201catypical\u201d antipsychotic.",
+    "raw_generation": "Answer: YES\nExplanation: A PET study (Evidence\u202f1) demonstrated that amoxapine produces high 5\u2011HT\u2082 receptor occupancy exceeding dopamine D\u2082 occupancy, with D\u2082 occupancy never exceeding 80\u202f%\u2014a pharmacologic profile characteristic of atypical antipsychotics. The authors conclude that amoxapine\u2019s profile is very similar to established atypical agents and suggest it may be considered an \u201catypical\u201d antipsychotic.",
+    "retrieval_latency_ms": 228.75219996785745,
+    "generation_latency_ms": 16229.685900034383,
+    "error": null,
+    "retrieved_pmids": [
+      "10331115",
+      "15927202",
+      "16316487",
+      "12629529",
+      "14647963"
+    ]
+  },
+  {
+    "pmid": "18594195",
+    "question": "Do older patients who refuse to participate in a self-management intervention in the Netherlands differ from older patients who agree to participate?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "As in many studies, the refusal rate in this study is high, and seems to be related to physical mobility restrictions, travel distance and, partly, to availability of emotional support. These findings may be used to make the recruitment process more effective - for example, by offering transport to the location of the intervention.",
+    "predicted_explanation": "The study of older Dutch out\u2011patients found that refusers (74% of those invited) differed from participants in several ways: they had more limited mobility, lived farther from the intervention site, and more often had a partner. No differences were seen in education, age, or gender, but the presence of these other differences indicates that refusers and participants are not identical groups.",
+    "raw_generation": "Answer: YES\nExplanation: The study of older Dutch out\u2011patients found that refusers (74% of those invited) differed from participants in several ways: they had more limited mobility, lived farther from the intervention site, and more often had a partner. No differences were seen in education, age, or gender, but the presence of these other differences indicates that refusers and participants are not identical groups.",
+    "retrieval_latency_ms": 1053.965299972333,
+    "generation_latency_ms": 10820.76989999041,
+    "error": null,
+    "retrieved_pmids": [
+      "18594195",
+      "21631881",
+      "18800356",
+      "26634861",
+      "24341439"
+    ]
+  },
+  {
+    "pmid": "22497340",
+    "question": "Is horizontal semicircular canal ocular reflex influenced by otolith organs input?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Otolith organs input influences the axis of horizontal semicircular canal ocular reflex; therefore, the plane of compensatory eye movements induced by the horizontal canal stimulation is not always parallel to the canal.",
+    "predicted_explanation": "The study titled \u201cIs horizontal semicircular canal ocular reflex influenced by otolith organs input?\u201d (PMID\u202f22497340) directly investigated this question and concluded that otolith organ input does influence the axis of the horizontal semicircular canal ocular reflex, indicating that the plane of compensatory eye movements is not always parallel to the canal. This provides explicit evidence that otolith input affects the horizontal canal ocular reflex.",
+    "raw_generation": "Answer: YES\nExplanation: The study titled \u201cIs horizontal semicircular canal ocular reflex influenced by otolith organs input?\u201d (PMID\u202f22497340) directly investigated this question and concluded that otolith organ input does influence the axis of the horizontal semicircular canal ocular reflex, indicating that the plane of compensatory eye movements is not always parallel to the canal. This provides explicit evidence that otolith input affects the horizontal canal ocular reflex.",
+    "retrieval_latency_ms": 579.9148000078276,
+    "generation_latency_ms": 11986.240199999884,
+    "error": null,
+    "retrieved_pmids": [
+      "22497340",
+      "15064889",
+      "2248334",
+      "15064888",
+      "14657193"
+    ]
+  },
+  {
+    "pmid": "16769333",
+    "question": "Preoperative tracheobronchoscopy in newborns with esophageal atresia: does it matter?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Tracheobronchoscopy is a useful and safe procedure and should be recommended in tertiary centers for babies with EA before surgical repair.",
+    "predicted_explanation": "In a study of 62 newborns with esophageal atresia, preoperative tracheobronchoscopy identified previously undetected fistulas, airway anomalies, and allowed occlusion of carinal fistulas, leading to changes in surgical approach in 24\u202f% of cases and proving clinically useful in 45\u202f% of patients without complications. The authors concluded that tracheobronchoscopy is a useful and safe procedure that should be recommended before repair. (Evidence\u202f1)",
+    "raw_generation": "Answer: YES  \nExplanation: In a study of 62 newborns with esophageal atresia, preoperative tracheobronchoscopy identified previously undetected fistulas, airway anomalies, and allowed occlusion of carinal fistulas, leading to changes in surgical approach in 24\u202f% of cases and proving clinically useful in 45\u202f% of patients without complications. The authors concluded that tracheobronchoscopy is a useful and safe procedure that should be recommended before repair. (Evidence\u202f1)",
+    "retrieval_latency_ms": 731.4529999857768,
+    "generation_latency_ms": 10124.475100019481,
+    "error": null,
+    "retrieved_pmids": [
+      "16769333",
+      "26730061",
+      "12827385",
+      "12721721",
+      "22151015"
+    ]
+  },
+  {
+    "pmid": "20571467",
+    "question": "Is it appropriate to implant kidneys from elderly donors in young recipients?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "We conclude that patient and graft survival on transplanting kidneys from elderly donors to young recipients is superimposable on that obtained with young donors. However, renal function is better in the group of young donors.",
+    "predicted_explanation": "A 10\u2011year cohort study (91 transplants from donors\u202f>\u202f60\u202fy to recipients\u202f<\u202f60\u202fy versus matched young donor/recipient pairs) found no significant differences in patient or graft survival at 1, 5, and 10\u202fyears. Although creatinine levels were higher (worse renal function) with elderly donors, overall survival outcomes were comparable, supporting the appropriateness of using kidneys from elderly donors in younger recipients.",
+    "raw_generation": "Answer: YES\nExplanation: A 10\u2011year cohort study (91 transplants from donors\u202f>\u202f60\u202fy to recipients\u202f<\u202f60\u202fy versus matched young donor/recipient pairs) found no significant differences in patient or graft survival at 1, 5, and 10\u202fyears. Although creatinine levels were higher (worse renal function) with elderly donors, overall survival outcomes were comparable, supporting the appropriateness of using kidneys from elderly donors in younger recipients.",
+    "retrieval_latency_ms": 455.25890000863,
+    "generation_latency_ms": 17218.60059996834,
+    "error": null,
+    "retrieved_pmids": [
+      "20571467",
+      "10065258",
+      "12393691",
+      "7992357",
+      "28332960"
+    ]
+  },
+  {
+    "pmid": "12094116",
+    "question": "Is muscle power related to running speed with changes of direction?",
+    "gold_label": "yes",
+    "predicted_label": "no",
+    "is_correct": false,
+    "gold_explanation": "The relationships between leg muscle power and change-of-direction speed were not consistent. Reactive strength as measured by the drop jump appears to have some importance for lateral change-of-direction speed, possibly because of similar push-off actions. It was concluded that reactive strength of the leg extensor muscles has some importance in change-of-direction performance but the other technical and perceptual factors than influence agility performance should also be considered.",
+    "predicted_explanation": "In the study of 15 male athletes, correlations between concentric leg muscle power and sprint speed with changes of direction were generally low and non\u2011significant, indicating that leg muscle power does not have a consistent relationship with change\u2011of\u2011direction running speed. Only reactive strength showed some moderate, significant associations, while muscle power itself was not related. (Evidence\u202f1)",
+    "raw_generation": "Answer: NO\nExplanation: In the study of 15 male athletes, correlations between concentric leg muscle power and sprint speed with changes of direction were generally low and non\u2011significant, indicating that leg muscle power does not have a consistent relationship with change\u2011of\u2011direction running speed. Only reactive strength showed some moderate, significant associations, while muscle power itself was not related. (Evidence\u202f1)",
+    "retrieval_latency_ms": 328.6752999993041,
+    "generation_latency_ms": 15084.98210000107,
+    "error": null,
+    "retrieved_pmids": [
+      "12094116",
+      "16364330",
+      "14660502",
+      "26667925",
+      "14639481"
+    ]
+  },
+  {
+    "pmid": "17276182",
+    "question": "Stretch-sensitive KCNQ1 mutation A link between genetic and environmental factors in the pathogenesis of atrial fibrillation?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "These data suggest that the R14C KCNQ1 mutation alone is insufficient to cause AF. Rather, we suggest a model in which a \"second hit\", such as an environmental factor like hypertension, which promotes atrial stretch and thereby unmasks an inherited defect in ion channel kinetics (the \"first hit\"), is required for AF to be manifested. Such a model would also account for the age-related increase in AF development.",
+    "predicted_explanation": "Evidence 1 reports that the R14C KCNQ1 mutation shows increased current only after cell swelling/stretch, and atrial fibrillation occurred in individuals with both the mutation (genetic factor) and hypertension\u2011induced atrial stretch (environmental factor). This supports a model where a \u201csecond hit\u201d such as hypertension unmasks the inherited KCNQ1 defect, linking genetic and environmental factors in AF pathogenesis.",
+    "raw_generation": "Answer: YES\nExplanation: Evidence 1 reports that the R14C KCNQ1 mutation shows increased current only after cell swelling/stretch, and atrial fibrillation occurred in individuals with both the mutation (genetic factor) and hypertension\u2011induced atrial stretch (environmental factor). This supports a model where a \u201csecond hit\u201d such as hypertension unmasks the inherited KCNQ1 defect, linking genetic and environmental factors in AF pathogenesis.",
+    "retrieval_latency_ms": 487.5854999991134,
+    "generation_latency_ms": 14240.426099975593,
+    "error": null,
+    "retrieved_pmids": [
+      "17276182",
+      "14670813",
+      "20883512",
+      "16309759",
+      "11889581"
+    ]
+  },
+  {
+    "pmid": "26419377",
+    "question": "Are pelvic anatomical structures in danger during arthroscopic acetabular labral repair?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "It is anatomically possible that some pelvic structures sustain iatrogenic injury during acetabular drilling for anchor placement. Being aware of mean pelvic vault is important in which drilling after excessive pincer rim trimming could easily decrease the depth of acetabular bone without a standard. Careful drilling by using stopped drill bit is crucial to prevent iatrogenic injury.",
+    "predicted_explanation": "The cadaveric study (PMID\u202f26419377) directly evaluated safe bone depth for suture anchor insertion during arthroscopic acetabular labral repair and found that 23.3\u202f% of drill penetrations caused injuries, indicating that pelvic anatomical structures can be at risk of iatrogenic injury during the procedure.",
+    "raw_generation": "Answer: YES  \nExplanation: The cadaveric study (PMID\u202f26419377) directly evaluated safe bone depth for suture anchor insertion during arthroscopic acetabular labral repair and found that 23.3\u202f% of drill penetrations caused injuries, indicating that pelvic anatomical structures can be at risk of iatrogenic injury during the procedure.",
+    "retrieval_latency_ms": 296.0766000323929,
+    "generation_latency_ms": 15034.396499977447,
+    "error": null,
+    "retrieved_pmids": [
+      "26419377",
+      "26816279",
+      "14605752",
+      "28983653",
+      "27026986"
+    ]
+  },
+  {
+    "pmid": "23810330",
+    "question": "Is intraoperative neuromonitoring associated with better functional outcome in patients undergoing open TME?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "In this study TME with IONM was associated with significant lower rates of urinary and anorectal dysfunction. Prospective randomized trials are mandatory to evaluate the definite role of IONM in rectal cancer surgery.",
+    "predicted_explanation": "In a case\u2011control study of 15 matched pairs undergoing open total mesorectal excision (TME), patients operated with intraoperative neuromonitoring (IONM) had significantly fewer postoperative urinary (1/15 vs 6/15, p\u202f=\u202f0.031) and anorectal dysfunctions (1/15 vs 6/15, p\u202f=\u202f0.031) compared with controls, indicating that IONM was associated with better functional outcomes.",
+    "raw_generation": "Answer: YES\nExplanation: In a case\u2011control study of 15 matched pairs undergoing open total mesorectal excision (TME), patients operated with intraoperative neuromonitoring (IONM) had significantly fewer postoperative urinary (1/15 vs 6/15, p\u202f=\u202f0.031) and anorectal dysfunctions (1/15 vs 6/15, p\u202f=\u202f0.031) compared with controls, indicating that IONM was associated with better functional outcomes.",
+    "retrieval_latency_ms": 328.3200000296347,
+    "generation_latency_ms": 13120.24320004275,
+    "error": null,
+    "retrieved_pmids": [
+      "23810330",
+      "24132674",
+      "28206726",
+      "16283339",
+      "17054994"
+    ]
+  },
+  {
+    "pmid": "15151701",
+    "question": "Profiling quality of care: Is there a role for peer review?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "For conditions with a well-developed quality of care evidence base, such as hypertension and diabetes, a single structured implicit review to assess the quality of care over a period of time is moderately reliable. This method could be a reasonable complement or alternative to explicit indicator approaches for assessing and comparing quality of care. Structured implicit review, like explicit quality measures, must be used more cautiously for illnesses for which the evidence base is less well developed, such as COPD and acute, short-course illnesses.",
+    "predicted_explanation": "A reliability study of a structured implicit chart\u2011review instrument (a form of peer review) showed that for chronic conditions with a well\u2011developed evidence base (e.g., diabetes and hypertension) the method yields moderate reliability and can distinguish true differences in quality of care. The authors concluded that such structured peer review could be a reasonable complement or alternative to explicit quality measures for profiling care quality. (Evidence\u202f3)",
+    "raw_generation": "Answer: YES\nExplanation: A reliability study of a structured implicit chart\u2011review instrument (a form of peer review) showed that for chronic conditions with a well\u2011developed evidence base (e.g., diabetes and hypertension) the method yields moderate reliability and can distinguish true differences in quality of care. The authors concluded that such structured peer review could be a reasonable complement or alternative to explicit quality measures for profiling care quality. (Evidence\u202f3)",
+    "retrieval_latency_ms": 332.5936999754049,
+    "generation_latency_ms": 16689.923400001135,
+    "error": null,
+    "retrieved_pmids": [
+      "7990241",
+      "26500053",
+      "15151701",
+      "21631883",
+      "22056403"
+    ]
+  },
+  {
+    "pmid": "23736032",
+    "question": "Multidisciplinary decisions in breast cancer: does the patient receive what the team has recommended?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "The vast majority of MDT decisions are implemented. Management alteration was most often due to patient choice or additional information available after the MDT. A minority of management alterations were 'unjustifiable' and the authors recommend that any patient whose treatment is subsequently changed should have MDT rediscussion prior to treatment.",
+    "predicted_explanation": "In a study of 3230 MDT decisions for breast cancer, 91.5% were concordant with subsequent patient management, indicating that the vast majority of patients received the treatment recommended by the multidisciplinary team. Only a small minority (4.5%) were discordant, mainly due to patient choice or new information. This demonstrates that patients generally receive what the team recommends.",
+    "raw_generation": "Answer: YES\nExplanation: In a study of 3230 MDT decisions for breast cancer, 91.5% were concordant with subsequent patient management, indicating that the vast majority of patients received the treatment recommended by the multidisciplinary team. Only a small minority (4.5%) were discordant, mainly due to patient choice or new information. This demonstrates that patients generally receive what the team recommends.",
+    "retrieval_latency_ms": 378.5494000185281,
+    "generation_latency_ms": 10246.820700005628,
+    "error": null,
+    "retrieved_pmids": [
+      "23736032",
+      "9191526",
+      "37963326",
+      "14666383",
+      "17890090"
+    ]
+  },
+  {
+    "pmid": "28143468",
+    "question": "Are performance measurement systems useful?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "This study contributes to the literature investigating the design and implementation of a non-financial measurement tool, such as the non-financial information included into a balanced scorecard (BSC), in health care organizations. Managers in health care organizations can benefit from the strategic use of PMS to effectively allocate their time to strategic opportunities and threats, which might arise and affect organizational, output-related performance, such as improving processes.",
+    "predicted_explanation": "A study of Italian health\u2011care managers (Evidence\u202f3) found that the strategic use of performance measurement systems (PMS) directly and significantly improves organizational processes (p\u202f<\u202f0.001), indicating that PMS are useful for enhancing performance. Additional discussion of quality measurement systems supporting improvement in health\u2011care outcomes (Evidence\u202f4) and their role as a guide for design and learning in clinics (Evidence\u202f2) further supports their usefulness.",
+    "raw_generation": "Answer: YES\nExplanation: A study of Italian health\u2011care managers (Evidence\u202f3) found that the strategic use of performance measurement systems (PMS) directly and significantly improves organizational processes (p\u202f<\u202f0.001), indicating that PMS are useful for enhancing performance. Additional discussion of quality measurement systems supporting improvement in health\u2011care outcomes (Evidence\u202f4) and their role as a guide for design and learning in clinics (Evidence\u202f2) further supports their usefulness.",
+    "retrieval_latency_ms": 130.74480002978817,
+    "generation_latency_ms": 11027.277000015602,
+    "error": null,
+    "retrieved_pmids": [
+      "26335274",
+      "18766451",
+      "28143468",
+      "12471274",
+      "39372315"
+    ]
+  },
+  {
+    "pmid": "22117569",
+    "question": "Is an advance care planning model feasible in community palliative care?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "An advance care planning model is feasible for community palliative care services. Quality audit processes are an essential component of the Model with documentation of advance care planning discussion established as an important outcome measure.",
+    "predicted_explanation": "A multi\u2011site action research study of three Victorian community palliative care services found that the advance care planning model could be embedded into organizational structures, with appropriate quality audit processes, demonstrating feasibility in community palliative care settings.",
+    "raw_generation": "Answer: YES\nExplanation: A multi\u2011site action research study of three Victorian community palliative care services found that the advance care planning model could be embedded into organizational structures, with appropriate quality audit processes, demonstrating feasibility in community palliative care settings.",
+    "retrieval_latency_ms": 964.8928999667987,
+    "generation_latency_ms": 789.3264000304043,
+    "error": null,
+    "retrieved_pmids": [
+      "22117569",
+      "26378123",
+      "26391751",
+      "20352326",
+      "28946842"
+    ]
+  },
+  {
+    "pmid": "22453060",
+    "question": "Does a 4 diagram manual enable laypersons to operate the Laryngeal Mask Supreme\u00ae?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "In manikin laypersons could insert LMAS in the correct direction after onsite instruction by a simple manual with a high success rate. This indicates some basic procedural understanding and intellectual transfer in principle. Operating errors (n = 91) were frequently not recognized and corrected (n = 77). Improvements in labeling and the quality of instructional photographs may reduce individual error and may optimize understanding.",
+    "predicted_explanation": "In the pilot study (Evidence\u202f1), 150 laypersons used a four\u2011diagram instruction sheet to operate a Laryngeal Mask Supreme\u00ae on a manikin.\u202f96.7\u202f% inserted the device in the correct direction, and 79.3\u202f% were able to insert it and deliver adequate tidal volumes within two minutes, demonstrating that the simple manual enabled successful operation by laypersons.",
+    "raw_generation": "Answer: YES  \nExplanation: In the pilot study (Evidence\u202f1), 150 laypersons used a four\u2011diagram instruction sheet to operate a Laryngeal Mask Supreme\u00ae on a manikin.\u202f96.7\u202f% inserted the device in the correct direction, and 79.3\u202f% were able to insert it and deliver adequate tidal volumes within two minutes, demonstrating that the simple manual enabled successful operation by laypersons.",
+    "retrieval_latency_ms": 2157.5301999691874,
+    "generation_latency_ms": 1003.5451999865472,
+    "error": null,
+    "retrieved_pmids": [
+      "22453060",
+      "11801041",
+      "14648040",
+      "16271603",
+      "11741893"
+    ]
+  },
+  {
+    "pmid": "23347337",
+    "question": "Is intensive chemotherapy safe for rural cancer patients?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "It appears safe to administer intensive chemotherapy regimens at standard doses to rural patients without increased morbidity or mortality. Support for general practitioners through phone or videoconferencing may reduce the safety concerns.",
+    "predicted_explanation": "A retrospective audit (Evidence\u202f1) of rural versus urban patients receiving intensive chemotherapy for breast and colorectal cancers found comparable dose intensity, similar rates of serious side effects (e.g., febrile neutropenia 9.3% vs\u202f7.4%), and no toxic deaths, concluding that intensive regimens are safe for rural patients. Supporting data from a teleoncology study (Evidence\u202f2) showed no significant differences in toxicity, hospital admissions, or mortality between rural patients treated under teleoncology supervision and urban patients, further confirming safety.",
+    "raw_generation": "Answer: YES\nExplanation: A retrospective audit (Evidence\u202f1) of rural versus urban patients receiving intensive chemotherapy for breast and colorectal cancers found comparable dose intensity, similar rates of serious side effects (e.g., febrile neutropenia 9.3% vs\u202f7.4%), and no toxic deaths, concluding that intensive regimens are safe for rural patients. Supporting data from a teleoncology study (Evidence\u202f2) showed no significant differences in toxicity, hospital admissions, or mortality between rural patients treated under teleoncology supervision and urban patients, further confirming safety.",
+    "retrieval_latency_ms": 1782.2038000449538,
+    "generation_latency_ms": 65723.33170002094,
+    "error": null,
+    "retrieved_pmids": [
+      "23347337",
+      "26561905",
+      "29258386",
+      "11299068",
+      "21670970"
+    ]
+  },
+  {
+    "pmid": "23495128",
+    "question": "The colour of pain: can patients use colour to describe osteoarthritis pain?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "For some patients, using colour to describe their pain experience may be a useful tool to improve doctor-patient communication.",
+    "predicted_explanation": "In a qualitative study of 17 knee\u2011OA patients, most participants found using colour to describe pain acceptable and could associate specific colours (e.g., red for high\u2011intensity pain, grey/black for aching) with pain qualities and intensity. The majority believed they could convey their pain to clinicians using colour, although some raised concerns about standardisation. Thus, patients are able to use colour to describe osteoarthritis pain.",
+    "raw_generation": "Answer: YES  \nExplanation: In a qualitative study of 17 knee\u2011OA patients, most participants found using colour to describe pain acceptable and could associate specific colours (e.g., red for high\u2011intensity pain, grey/black for aching) with pain qualities and intensity. The majority believed they could convey their pain to clinicians using colour, although some raised concerns about standardisation. Thus, patients are able to use colour to describe osteoarthritis pain.",
+    "retrieval_latency_ms": 263.2356000249274,
+    "generation_latency_ms": 1939.8344000219367,
+    "error": null,
+    "retrieved_pmids": [
+      "23495128",
+      "18381824",
+      "26293290",
+      "7886066",
+      "24279655"
+    ]
+  },
+  {
+    "pmid": "12121321",
+    "question": "Do mossy fibers release GABA?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "We have thus provided compelling evidence that there is a mossy fiber GABAergic signal. The physiologic role of this mossy fiber GABAergic signal is uncertain, but may be of developmental importance. Other evidence suggests that this GABAergic signal is transiently upregulated after seizures. This could have an inhibitory or disinhibitory effect, and further work is needed to elucidate its actual role.",
+    "predicted_explanation": "Evidence 1 reports that mossy fiber terminals show intense immunoreactivity for GABA and GAD67, and electrophysiological recordings demonstrate monosynaptic GABAA\u2011receptor\u2011mediated inhibitory signals in CA3 pyramidal neurons that meet criteria for mossy\u2011fiber origin. This provides direct physiological evidence that mossy fibers release GABA.",
+    "raw_generation": "Answer: YES\nExplanation: Evidence 1 reports that mossy fiber terminals show intense immunoreactivity for GABA and GAD67, and electrophysiological recordings demonstrate monosynaptic GABAA\u2011receptor\u2011mediated inhibitory signals in CA3 pyramidal neurons that meet criteria for mossy\u2011fiber origin. This provides direct physiological evidence that mossy fibers release GABA.",
+    "retrieval_latency_ms": 87.18440000666305,
+    "generation_latency_ms": 1241.7410000343807,
+    "error": null,
+    "retrieved_pmids": [
+      "12121321",
+      "8719345",
+      "8847419",
+      "9872317",
+      "1667637"
+    ]
+  },
+  {
+    "pmid": "18570208",
+    "question": "Is severe macrosomia manifested at 11-14 weeks of gestation?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Severe macrosomia apparently manifests as early as 11-14 weeks' gestation.",
+    "predicted_explanation": "The case\u2011control study (Evidence\u202f1) found that fetuses later delivering severely macrosomic neonates had significantly larger crown\u2011rump lengths at the 11\u201114\u202fweek nuchal translucency scan compared with controls, and concluded that \u201csevere macrosomia apparently manifests as early as 11\u201114 weeks\u2019 gestation.\u201d This directly supports the statement.",
+    "raw_generation": "Answer: YES  \nExplanation: The case\u2011control study (Evidence\u202f1) found that fetuses later delivering severely macrosomic neonates had significantly larger crown\u2011rump lengths at the 11\u201114\u202fweek nuchal translucency scan compared with controls, and concluded that \u201csevere macrosomia apparently manifests as early as 11\u201114 weeks\u2019 gestation.\u201d This directly supports the statement.",
+    "retrieval_latency_ms": 192.60369997937232,
+    "generation_latency_ms": 52958.8871000451,
+    "error": null,
+    "retrieved_pmids": [
+      "18570208",
+      "12673477",
+      "16359774",
+      "21190419",
+      "11845321"
+    ]
+  },
+  {
+    "pmid": "28707539",
+    "question": "Visceral adipose tissue area measurement at a single level: can it represent visceral adipose tissue volume?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "VAT area measurement at a single level 3 cm above the lower margin of the L3 vertebra is feasible and can reflect changes in VAT volume and body weight. Advances in knowledge: As VAT area at a CT slice 3cm above the lower margin of L3 can best reflect interval changes in VAT volume and body weight, VAT area measurement should be selected at this location.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 341.1036000470631,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "28707539",
+      "24170732",
+      "8597440",
+      "15955385",
+      "16406466"
+    ]
+  },
+  {
+    "pmid": "18783922",
+    "question": "Do cytokines have any role in epilepsy?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "We found increased post-ictal serum cytokine levels in patients with several epilepsy syndromes.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 789.249400026165,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "18515469",
+      "12557006",
+      "18783922",
+      "28959876",
+      "9872246"
+    ]
+  },
+  {
+    "pmid": "15528969",
+    "question": "Is expert breast pathology assessment necessary for the management of ductal carcinoma in situ ?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Expert breast pathology assessments continue to be necessary in the management of DCIS.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 2198.7619000137784,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "15528969",
+      "16897273",
+      "22431319",
+      "19854401",
+      "9874456"
+    ]
+  },
+  {
+    "pmid": "19482903",
+    "question": "Treadmill testing of children who have spina bifida and are ambulatory: does peak oxygen uptake reflect maximum oxygen uptake?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "The (.)Vo(2)peak measured during an incremental treadmill test seems to reflect the true (.)Vo(2)max in children who have spina bifida and are ambulatory, validating the use of a treadmill test for these children. When confirmation of maximal effort is needed, the addition of supramaximal testing of children with disability is an easy and well-tolerated method.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 1873.0642000446096,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "19482903",
+      "15787677",
+      "21083771",
+      "21062419",
+      "26470843"
+    ]
+  },
+  {
+    "pmid": "11977907",
+    "question": "Subclavian steal syndrome: can the blood pressure difference between arms predict the severity of steal?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Brachial systolic blood pressure difference is related to the severity of SSS and can be used as a screening tool for SSS. However, it performed better in severe steal than milder steal phenomena.",
+    "predicted_explanation": "In a retrospective study of 51 patients with sonographically proven subclavian steal syndrome, the systolic blood\u2011pressure difference between arms was significantly larger in patients with more severe vertebral\u2011artery waveform abnormalities (complete reversal or alternating flow) than in those with milder deceleration waveforms (P\u202f<\u202f.001). The authors concluded that the brachial systolic pressure difference correlates with the severity of the steal and can be used as a screening tool, especially for severe steal.",
+    "raw_generation": "Answer: YES  \nExplanation: In a retrospective study of 51 patients with sonographically proven subclavian steal syndrome, the systolic blood\u2011pressure difference between arms was significantly larger in patients with more severe vertebral\u2011artery waveform abnormalities (complete reversal or alternating flow) than in those with milder deceleration waveforms (P\u202f<\u202f.001). The authors concluded that the brachial systolic pressure difference correlates with the severity of the steal and can be used as a screening tool, especially for severe steal.",
+    "retrieval_latency_ms": 1394.3667000276037,
+    "generation_latency_ms": 1023.3115999726579,
+    "error": null,
+    "retrieved_pmids": [
+      "11977907",
+      "18158191",
+      "21883626",
+      "18468833",
+      "18155784"
+    ]
+  },
+  {
+    "pmid": "17306983",
+    "question": "Is size-reducing ascending aortoplasty with external reinforcement an option in modern aortic surgery?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "As demonstrated in this study, size reduction of the ascending aorta using aortoplasty with external reinforcement is a safe procedure with excellent long-term results. It is a therapeutic option in modern aortic surgery in patients with poststenotic dilatation of the aorta without impairment of the sinotubular junction of the aortic valve and root.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 674.9017999973148,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "17306983",
+      "21802748",
+      "18058116",
+      "17625966",
+      "24284938"
+    ]
+  },
+  {
+    "pmid": "24318956",
+    "question": "Is digoxin use for cardiovascular disease associated with risk of prostate cancer?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "These data indicate digoxin use may be associated with a reduction in risk of PCa. Given the potential mechanisms by which digoxin may exert an anti-neoplastic effect and other recent studies showing a negative association between digoxin use and PCa, further research is warranted.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 1242.8300000028685,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "24318956",
+      "29254671",
+      "21054791",
+      "22068548",
+      "8625082"
+    ]
+  },
+  {
+    "pmid": "22266735",
+    "question": "Screening for gestational diabetes mellitus: are the criteria proposed by the international association of the Diabetes and Pregnancy Study Groups cost-effective?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "The IADPSG recommendation for glucose screening in pregnancy is cost-effective. The model is most sensitive to the likelihood of preventing future diabetes in patients identified with GDM using postdelivery counseling and intervention.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 1338.9925999799743,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "22266735",
+      "21190419",
+      "8555801",
+      "28901703",
+      "21402341"
+    ]
+  },
+  {
+    "pmid": "10401824",
+    "question": "Is laparoscopic reoperation for failed antireflux surgery feasible?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Antireflux surgery failures are most commonly associated with hiatal herniation, followed by the breakdown of the fundoplication. The laparoscopic approach may be used successfully to treat patients with failed antireflux operations. Good results were achieved despite the technical difficulty of the procedures.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 762.3541999491863,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "11967703",
+      "12673491",
+      "10401824",
+      "11928012",
+      "18403945"
+    ]
+  },
+  {
+    "pmid": "15208005",
+    "question": "The Omega-3 Index: a new risk factor for death from coronary heart disease?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "The Omega-3 Index may represent a novel, physiologically relevant, easily modified, independent, and graded risk factor for death from CHD that could have significant clinical utility.",
+    "predicted_explanation": "The abstract of the study titled \u201cThe Omega-3 Index: a new risk factor for death from coronary heart disease?\u201d reports that the Omega\u20113 Index (RBC EPA\u202f+\u202fDHA) is inversely associated with risk of CHD mortality, with low values (\u22644\u202f%) linked to the highest risk and higher values (\u22658\u202f%) linked to greatest cardioprotection. The authors conclude that the Omega\u20113 Index may represent a novel, independent, and graded risk factor for death from CHD.",
+    "raw_generation": "Answer: YES\nExplanation: The abstract of the study titled \u201cThe Omega-3 Index: a new risk factor for death from coronary heart disease?\u201d reports that the Omega\u20113 Index (RBC EPA\u202f+\u202fDHA) is inversely associated with risk of CHD mortality, with low values (\u22644\u202f%) linked to the highest risk and higher values (\u22658\u202f%) linked to greatest cardioprotection. The authors conclude that the Omega\u20113 Index may represent a novel, independent, and graded risk factor for death from CHD.",
+    "retrieval_latency_ms": 1532.4991999659687,
+    "generation_latency_ms": 19279.05810001539,
+    "error": null,
+    "retrieved_pmids": [
+      "15208005",
+      "9867756",
+      "2240916",
+      "21186101",
+      "19482299"
+    ]
+  },
+  {
+    "pmid": "16713745",
+    "question": "Do cytokine concentrations in pancreatic juice predict the presence of pancreatic diseases?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Cytokine levels can be measured in pancreatic juice obtained from the duodenum without direct cannulation of the pancreatic duct. Interleukin-8 concentration in pancreatic juice can be used to discriminate between normal pancreas and patients with pancreatic disease. This is a relatively simple and noninvasive method to aid in the diagnosis of pancreatic diseases.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 412.0406999718398,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "16713745",
+      "10651060",
+      "1726088",
+      "2269366",
+      "1722211"
+    ]
+  },
+  {
+    "pmid": "21864397",
+    "question": "Factors determining the survival of nasopharyngeal carcinoma with lung metastasis alone: does combined modality treatment benefit?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Age \u2264 45 years, DFI>1 year, and the combined therapy were good prognostic factors for NPC patients with lung metastasis(es) alone. The combination of local therapy and the basic chemotherapy should be considered for these patients with DFI>1 year.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 1038.5142000159249,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "21864397",
+      "22488786",
+      "12548421",
+      "14657999",
+      "8625072"
+    ]
+  },
+  {
+    "pmid": "25810292",
+    "question": "Is minimally invasive mitral valve repair with artificial chords reproducible and applicable in routine surgery?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Minimally invasive mitral valve repair using neochords provided a high rate of repair, reproducible results in a routine cardiac surgery setting and stable repair during follow-up. This has become our preferred technique for mitral valve surgery.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 1021.2267999886535,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "25810292",
+      "16339815",
+      "26768936",
+      "21194764",
+      "25742547"
+    ]
+  },
+  {
+    "pmid": "11943048",
+    "question": "Does receipt of hospice care in nursing homes improve the management of pain at the end of life?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Findings suggest that analgesic management of daily pain is better for nursing home residents enrolled in hospice than for those not enrolled in hospice.The prescribing practices portrayed by this study reveal that many dying nursing home residents in daily pain are receiving no analgesic treatment or are receiving analgesic treatment inconsistent with AMDA and other pain management guidelines. Improving the analgesic management of pain in nursing homes is essential if high-quality end-of-life care in nursing homes is to be achieved.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 677.9350999859162,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "11943048",
+      "23688367",
+      "29149789",
+      "23688369",
+      "27742606"
+    ]
+  },
+  {
+    "pmid": "23992109",
+    "question": "Is the urinary biomarkers assessment a non-invasive approach to tubular lesions of the solitary kidney?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "Urinary biomarkers allow a non-invasive, sensitive, early assessment of the tubular lesions of the SK. Urinary biomarkers of PT injury parallel renal function decline, thus complementing the estimation of GFR. Monitoring of PT dysfunction is mandatory in patients with SK.",
+    "predicted_explanation": "The study titled \u201cIs the urinary biomarkers assessment a non\u2011invasive approach to tubular lesions of the solitary kidney?\u201d measured urinary N\u2011acetyl\u2011\u03b2\u2011D\u2011glucosaminidase, \u03b1\u20111\u2011microglobulin and albuminuria in patients with solitary kidneys and found that these urinary biomarkers correlated inversely with eGFR and reflected tubular injury. The authors concluded that \u201cUrinary biomarkers allow a non\u2011invasive, sensitive, early assessment of the tubular lesions of the SK,\u201d confirming that urinary biomarker assessment is a non\u2011invasive method for evaluating tubular lesions in the solitary kidney.",
+    "raw_generation": "Answer: YES\nExplanation: The study titled \u201cIs the urinary biomarkers assessment a non\u2011invasive approach to tubular lesions of the solitary kidney?\u201d measured urinary N\u2011acetyl\u2011\u03b2\u2011D\u2011glucosaminidase, \u03b1\u20111\u2011microglobulin and albuminuria in patients with solitary kidneys and found that these urinary biomarkers correlated inversely with eGFR and reflected tubular injury. The authors concluded that \u201cUrinary biomarkers allow a non\u2011invasive, sensitive, early assessment of the tubular lesions of the SK,\u201d confirming that urinary biomarker assessment is a non\u2011invasive method for evaluating tubular lesions in the solitary kidney.",
+    "retrieval_latency_ms": 630.1903999992646,
+    "generation_latency_ms": 62126.54409999959,
+    "error": null,
+    "retrieved_pmids": [
+      "23992109",
+      "26648310",
+      "23517744",
+      "22235857",
+      "22103716"
+    ]
+  },
+  {
+    "pmid": "10922093",
+    "question": "Does open access endoscopy close the door to an adequately informed patient?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Patients undergoing open access procedures are less likely to be properly informed about their endoscopic procedure. Our results indicate that with open access endoscopy, a defined mechanism needs to be in place for communication of endoscopic results to the patient.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 375.1153000048362,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "10922093",
+      "26659024",
+      "26603533",
+      "20813484",
+      "29289700"
+    ]
+  },
+  {
+    "pmid": "26601554",
+    "question": "Do viral infections have a role in benign paroxysmal positional vertigo?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "BPPV is associated with positive viral serology, particularly during certain months of the year, mainly in spring and autumn. Viral infection might promote BPPV attacks due to the development of vestibulopathy or induce secondary BPPV via viral infection-related neurolabyrinthitis.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 709.3203000258654,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "26601554",
+      "10731802",
+      "26111348",
+      "27307864",
+      "14624358"
+    ]
+  },
+  {
+    "pmid": "15489384",
+    "question": "Does reducing spasticity translate into functional benefit?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Using a targeted meta-analytic approach, it is possible to demonstrate that reducing spasticity in the arm is associated with a significant improvement in arm function.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 318.04409995675087,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "15489384",
+      "20884254",
+      "22212022",
+      "11156943",
+      "17767994"
+    ]
+  },
+  {
+    "pmid": "27818079",
+    "question": "Is the Retromandibular Transparotid Approach a Reliable Option for the Surgical Treatment of Condylar Fractures?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "According to the results of the present study, the retromandibular transparotid approach is a viable and safe approach for the surgical treatment of condylar fractures.",
+    "predicted_explanation": "A retrospective study of 25 patients treated with the retromandibular transparotid approach for condylar fractures reported restoration of pre\u2011injury occlusion and temporomandibular joint health in most cases, satisfactory aesthetic outcomes, and no permanent neurologic deficits or major complications. The authors concluded that the approach is a viable and safe option for surgical treatment of condylar fractures\u3010Evidence\u202f1\u3011.",
+    "raw_generation": "Answer: YES  \nExplanation: A retrospective study of 25 patients treated with the retromandibular transparotid approach for condylar fractures reported restoration of pre\u2011injury occlusion and temporomandibular joint health in most cases, satisfactory aesthetic outcomes, and no permanent neurologic deficits or major complications. The authors concluded that the approach is a viable and safe option for surgical treatment of condylar fractures\u3010Evidence\u202f1\u3011.",
+    "retrieval_latency_ms": 1149.9184000422247,
+    "generation_latency_ms": 47077.57620001212,
+    "error": null,
+    "retrieved_pmids": [
+      "27818079",
+      "27303456",
+      "22955530",
+      "20532579",
+      "27022560"
+    ]
+  },
+  {
+    "pmid": "24340838",
+    "question": "Do ventricular arrhythmias in athletes subside over time?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Athletes engaged in competitive sports are more likely to develop ventricular arrhythmias during exercise. These arrhythmias subside over time when athletes are engaged in non-competitive sports.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 276.04430000064895,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "24340838",
+      "18603583",
+      "2251990",
+      "16290130",
+      "16330114"
+    ]
+  },
+  {
+    "pmid": "16971978",
+    "question": "Are complex coronary lesions more frequent in patients with diabetes mellitus?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "Complex coronary lesions such as bifurcation and ostial lesions were significantly more common in diabetic patients than in nondiabetic patients. Greater age and the presence of DM were independent predictors for these complex lesions. These results may help to explain the poor prognosis of coronary artery disease among diabetic patients.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 758.9057000004686,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "16971978",
+      "20857149",
+      "17651846",
+      "23966570",
+      "16325943"
+    ]
+  },
+  {
+    "pmid": "21689015",
+    "question": "Can dogs prime autistic children for therapy?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "These findings are in accordance with previous experimental work and provide additional support for the assertion that dogs can prime autistic children for therapy. Ultimately, this study may contribute toward a change for full acceptance of canine-assisted therapy programs within the medical milieu. Additional studies using a similar research protocol on more autistic children will certainly help professionals to work on the most effective methods to individually serve this population through canine-assisted interventions.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 654.6432000468485,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "21689015",
+      "12629541",
+      "22087044",
+      "18162368",
+      "23721492"
+    ]
+  },
+  {
+    "pmid": "12846929",
+    "question": "Quality of life in lung cancer patients: does socioeconomic status matter?",
+    "gold_label": "yes",
+    "predicted_label": "yes",
+    "is_correct": true,
+    "gold_explanation": "At baseline assessment patients of lower socioeconomic status showed lower health related quality of life. Since there was no clear trend at follow-up assessment this suggests that patients from different socioeconomic status responded to treatment similarly. In general, the findings suggest that quality of life is not only the outcome of the disease and its treatment, but is also highly dependent on each patients' socioeconomic characteristics.",
+    "predicted_explanation": "In a prospective study of 129 newly diagnosed lung cancer patients, those of lower socioeconomic status had significantly poorer health\u2011related quality of life at baseline (e.g., lower physical mobility, energy, role and physical functioning, and more breathlessness; P\u202f=\u202f0.01\u20130.05). Although differences were not seen at three\u2011month follow\u2011up, the baseline findings demonstrate that socioeconomic status does affect quality of life in lung cancer patients. (Evidence\u202f1).",
+    "raw_generation": "Answer: YES\nExplanation: In a prospective study of 129 newly diagnosed lung cancer patients, those of lower socioeconomic status had significantly poorer health\u2011related quality of life at baseline (e.g., lower physical mobility, energy, role and physical functioning, and more breathlessness; P\u202f=\u202f0.01\u20130.05). Although differences were not seen at three\u2011month follow\u2011up, the baseline findings demonstrate that socioeconomic status does affect quality of life in lung cancer patients. (Evidence\u202f1).",
+    "retrieval_latency_ms": 856.4152999897487,
+    "generation_latency_ms": 39160.23560002213,
+    "error": null,
+    "retrieved_pmids": [
+      "12846929",
+      "27306480",
+      "29102587",
+      "2284696",
+      "22206634"
+    ]
+  },
+  {
+    "pmid": "22694248",
+    "question": "Is there a model to teach and practice retroperitoneoscopic nephrectomy?",
+    "gold_label": "yes",
+    "predicted_label": null,
+    "is_correct": false,
+    "gold_explanation": "RPN in a porcine model is feasible and could be very useful for teaching and practicing retroperitoneoscopy.",
+    "predicted_explanation": "",
+    "raw_generation": "",
+    "retrieval_latency_ms": 617.1558999922127,
+    "generation_latency_ms": 0.0,
+    "error": "Max retries exceeded",
+    "retrieved_pmids": [
+      "22694248",
+      "21681524",
+      "24426520",
+      "21104334",
+      "28869203"
+    ]
+  }
+]

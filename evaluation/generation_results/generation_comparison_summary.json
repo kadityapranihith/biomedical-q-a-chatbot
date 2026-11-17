@@ -1,0 +1,39 @@
+{
+  "bm25": {
+    "accuracy": 0.8888888888888888,
+    "macro_f1": 0.3137254901960784,
+    "f1_per_class": {
+      "yes": 0.9411764705882353,
+      "no": 0.0,
+      "maybe": 0.0
+    },
+    "confusion_matrix": [
+      [
+        72,
+        4,
+        5
+      ],
+      [
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "rouge1": 0.3869414753521334,
+    "rouge2": 0.1750417841797369,
+    "rougeL": 0.2607062973770905,
+    "bertscore_f1": 0.8762349486351013,
+    "bertscore_precision": 0.8549638986587524,
+    "bertscore_recall": 0.8992046117782593,
+    "avg_generation_latency_ms": 14639.292774078822,
+    "avg_retrieval_latency_ms": 835.3226879995782,
+    "avg_total_latency_ms": 15474.6154620784,
+    "evaluated": 81,
+    "total": 100
+  }
+}

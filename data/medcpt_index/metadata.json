@@ -1,0 +1,15 @@
+{
+  "method": "MedCPT Dense Retrieval",
+  "model": "ncbi/MedCPT-Article-Encoder",
+  "retrieval_text": "abstract_only",
+  "corpus_path": "D:\\capstone-project\\data\\pubmed_retrieval_corpus.jsonl",
+  "corpus_size": 43977,
+  "embedding_dimension": 768,
+  "max_length": 512,
+  "batch_size": 16,
+  "pooling": "CLS",
+  "normalization": false,
+  "faiss_index": "IndexFlatIP",
+  "device": "cuda",
+  "encoding_time_seconds": 2710.397729199998
+}

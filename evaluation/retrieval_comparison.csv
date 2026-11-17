@@ -1,0 +1,7 @@
+Method,File,Corpus Size,Test Size,Recall@1,Recall@5,Recall@10,MRR,Avg Latency (ms)
+BM25,bm25_results.json,43977,500,0.898,0.958,0.98,0.9235,503.18
+BioBERT,biobert_results.json,43977,500,0.204,0.342,0.404,0.2621,153.45
+Hybrid BM25+BioBERT (a=0.5),hybrid_results.json,43977,500,0.702,0.926,0.962,0.7949,565.28
+Hybrid BM25+BioBERT (Tuned),hybrid_tuned_results.json,43977,500,0.89,0.956,0.98,0.9196,774.96
+MedCPT,medcpt_results.json,43977,500,0.918,0.986,0.99,0.9485,45.13
+BM25+MedCPT Hybrid,bm25_medcpt_results.json,43977,500,0.952,0.994,0.994,0.9702,346.89
