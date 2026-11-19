@@ -284,7 +284,7 @@ st.markdown(
     }
 
     /* ── Input styling ─────────────────────────────────────── */
-    .stTextArea textarea {
+    .stTextArea textarea, .stTextInput input {
         background: var(--bg-card) !important;
         border: 1px solid var(--border) !important;
         border-radius: var(--radius-sm) !important;
@@ -292,13 +292,13 @@ st.markdown(
         font-family: 'Inter', sans-serif !important;
         font-size: .95rem !important;
     }
-    .stTextArea textarea:focus {
+    .stTextArea textarea:focus, .stTextInput input:focus {
         border-color: var(--accent-blue) !important;
         box-shadow: 0 0 0 3px rgba(67,97,238,.15) !important;
     }
 
-    /* ── Button ────────────────────────────────────────────── */
-    .stButton > button {
+    /* ── Button & Form Submit Button ───────────────────────── */
+    .stButton > button, div[data-testid="stFormSubmitButton"] > button {
         background: linear-gradient(135deg, #4361EE, #7B2FBE) !important;
         color: white !important;
         border: none !important;
@@ -309,12 +309,31 @@ st.markdown(
         transition: opacity .2s, transform .1s !important;
         box-shadow: 0 4px 15px rgba(67,97,238,.25) !important;
     }
-    .stButton > button:hover {
+    .stButton > button:hover, div[data-testid="stFormSubmitButton"] > button:hover {
         opacity: .88 !important;
         transform: translateY(-1px) !important;
     }
-    .stButton > button:active {
+    .stButton > button:active, div[data-testid="stFormSubmitButton"] > button:active {
         transform: translateY(0) !important;
+    }
+
+    /* Secondary submit button (Clear) */
+    div[data-testid="stFormSubmitButton"] > button[kind="secondary"] {
+        background: transparent !important;
+        color: var(--text-secondary) !important;
+        border: 1px solid var(--border) !important;
+        box-shadow: none !important;
+        font-weight: 500 !important;
+    }
+    div[data-testid="stFormSubmitButton"] > button[kind="secondary"]:hover {
+        color: var(--text-primary) !important;
+        border-color: var(--accent-blue) !important;
+    }
+
+    /* Seamless form container */
+    div[data-testid="stForm"] {
+        border: none !important;
+        padding: 0 !important;
     }
 
     /* ── Spinner / status ──────────────────────────────────── */
@@ -766,33 +785,39 @@ if corpus_loaded:
     )
 
 # ── Example questions ─────────────────────────────────────────
+if "user_question" not in st.session_state:
+    st.session_state["user_question"] = ""
+
 with st.expander("💡 Example questions — click to load", expanded=False):
     cols = st.columns(2)
     for i, q in enumerate(EXAMPLE_QUESTIONS):
         col = cols[i % 2]
         if col.button(q, key=f"example_{i}", use_container_width=True):
-            st.session_state["prefill_question"] = q
+            st.session_state["user_question"] = q
+            st.rerun()
 
-# ── Question input ────────────────────────────────────────────
-prefill = st.session_state.pop("prefill_question", "")
-question = st.text_area(
-    "Your biomedical question",
-    value=prefill,
-    height=110,
-    placeholder=(
-        "e.g. Does aspirin reduce cardiovascular risk in diabetic patients? "
-        "Or ask any open-ended biomedical question…"
-    ),
-    label_visibility="collapsed",
-)
+# ── Question input (Form enables Enter key submission) ────────
+with st.form(key="query_form", clear_on_submit=False):
+    question = st.text_input(
+        "Your biomedical question",
+        value=st.session_state["user_question"],
+        placeholder=(
+            "e.g. Does aspirin reduce cardiovascular risk in diabetic patients? "
+            "Or ask any open-ended biomedical question…"
+        ),
+        label_visibility="collapsed",
+    )
 
-col_btn, col_clear = st.columns([1, 6])
-with col_btn:
-    ask_clicked = st.button("🔬 Ask", use_container_width=True)
-with col_clear:
-    if st.button("Clear", use_container_width=False):
-        st.session_state.pop("last_result", None)
-        st.rerun()
+    col_btn, col_clear = st.columns([1, 6])
+    with col_btn:
+        ask_clicked = st.form_submit_button("🔬 Ask", type="primary", use_container_width=True)
+    with col_clear:
+        clear_clicked = st.form_submit_button("Clear", type="secondary", use_container_width=False)
+
+if clear_clicked:
+    st.session_state["user_question"] = ""
+    st.session_state.pop("last_result", None)
+    st.rerun()
 
 st.markdown("---")
 
@@ -801,6 +826,7 @@ st.markdown("---")
 # ============================================================
 
 if ask_clicked:
+    st.session_state["user_question"] = question
     q = question.strip()
 
     if not q:
